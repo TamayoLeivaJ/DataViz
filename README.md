@@ -4,7 +4,7 @@
 
 <div align="center">
 
-&nbsp;&nbsp;&nbsp;:e-mail: [Email][Email]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:speech_balloon: [Twitter][Twitter]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:computer: [LinkedIn][LinkedIn]
+&nbsp;&nbsp;&nbsp;:incoming_envelope: [Email][Email]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:speech_balloon: [Twitter][Twitter]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:computer: [LinkedIn][LinkedIn]
 
 </div>
 
