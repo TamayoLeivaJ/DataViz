@@ -9,7 +9,7 @@
 </div>
 
 [Twitter]:https://twitter.com/TamayoLeiva_J
-[LinkedIn]:https:https://www.linkedin.com/in/javier-ignacio-tamayo-leiva-94613267/
+[LinkedIn]:https://www.linkedin.com/in/javier-ignacio-tamayo-leiva-94613267/
 [Email]:mailto:j.tamayo.leiva@gmail.com
 
 Scripts for data wrangling and visualization with R
