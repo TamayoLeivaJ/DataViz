@@ -4,7 +4,7 @@
 
 <div align="center">
 
-&nbsp;&nbsp;&nbsp;:incoming_envelope: [Email][Email]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[1.2]: http://i.imgur.com/wWzX9uB.png [Twitter][Twitter]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:computer: [LinkedIn][LinkedIn]
+&nbsp;&nbsp;&nbsp;:incoming_envelope: [Email][Email]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="#" class="fa fa-twitter"></a> [Twitter][Twitter]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:computer: [LinkedIn][LinkedIn]
 
 </div>
 
