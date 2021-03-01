@@ -111,3 +111,4 @@ ggplot(Expeditions, aes(peak_name, highpoint_meters, size=n)) +
 
 #### Progress ####
 ggsave(here("images", "progress", "imgs_2021_himalaya", paste0(format(Sys.time(), "%Y%m%d_%H%M%S"), ".png")), dpi = 300, scale = 1, width = 19.2, height = 9, type = 'cairo')
+
