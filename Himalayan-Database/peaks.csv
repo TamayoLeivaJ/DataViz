@@ -1,0 +1,469 @@
+peak_id,peak_name,peak_alternative_name,Location,height_meters,climbing_status,first_ascent_year,first_ascent_country,first_ascent_expedition_id
+AMAD,Ama Dablam,Amai Dablang,Khumbu Himal,6814,Climbed,1961,"New Zealand, USA, UK",AMAD61101
+AMPG,Amphu Gyabjen,NA,Khumbu Himal (N of Ama Dablam),5630,Climbed,1953,UK,AMPG53101
+ANN1,Annapurna I,NA,Annapurna Himal,8091,Climbed,1950,France,ANN150101
+ANN2,Annapurna II,NA,Annapurna Himal,7937,Climbed,1960,"UK, Nepal",ANN260101
+ANN3,Annapurna III,NA,Annapurna Himal,7555,Climbed,1961,India,ANN361101
+ANN4,Annapurna IV,NA,Annapurna Himal,7525,Climbed,1955,W Germany,ANN455101
+ANNE,Annapurna I East,NA,Annapurna Himal (ENE of Annapurna I),8026,Climbed,1974,Spain,ANNE74101
+ANNM,Annapurna I Middle,NA,Annapurna Himal (ENE of Annapurna I),8051,Climbed,1980,W Germany,ANNM80301
+ANNS,Annapurna South,"Annapurna Dakshin, Moditse",Annapurna Himal (S of Annapurna I and Fang),7219,Climbed,1964,"Japan, Nepal",ANNS64301
+APIM,Api Main,NA,Api Himal,7132,Climbed,1960,"Japan, Nepal",APIM60101
+APIW,Api West,NA,Api Himal (W of Api),7076,Unclimbed,NA,NA,NA
+BARU,Baruntse,NA,Khumbu Himal (W of Makalu),7152,Climbed,1954,New Zealand,BARU54101
+BAUD,Baudha,NA,Mansiri Himal (SE of Manaslu and Himalchuli),6672,Climbed,1970,Japan,BAUD70101
+BHEM,Bhemdang Ri,Morimoto,Jugal Himal (SE of Shalbachum),6150,Climbed,1964,"Japan, Nepal",BHEM64101
+BHRI,Bhrikuti,Damodar Himal,Damodar Himal (NE of Thorong La near Tibetan border),6476,Climbed,1982,"Japan, Nepal",BHRI82101
+BOBA,Bobaye,NA,Api Himal (S of Nampa),6808,Climbed,1996,Slovenia,BOBA96301
+CHAM,Chamlang,NA,"Khumbu Himal (in Hongku Valley, SW of Makalu)",7321,Climbed,1962,"Japan, Nepal",CHAM62101
+CHAN,Changla,Changla Himal,Changla Himal (N of Jumla on Tibetan border),6563,Climbed,2010,Japan,CHAN10301
+CHMN,Chamar North,Peak 23,Shringi Himal,7165,Climbed,1953,"New Zealand, Nepal",CHMN53101
+CHEO,Cheo Himal,NA,Peri Himal (ESE of Himlung Himal on Tibetan border),6820,Climbed,1991,"Japan, Nepal",CHEO91301
+CHOY,Cho Oyu,NA,Khumbu Himal (NW of Everest on Tibetan border),8188,Climbed,1954,"Austria, Nepal",CHOY54301
+CHOB,Chobuje,"Chobutse, Tsoboje",Rolwaling Himal (NE of Tsho Rolpa),6686,Climbed,1972,W Germany,CHOB72101
+CHOL,Cholatse,"Tsolatse, Jobo Lhaptshan",Khumbu Himal (N of Tawoche),6423,Climbed,1982,"USA, UK",CHOL82101
+CHOP,Cho Polu,NA,"Khumbu Himal (S of Shartse, N of Baruntse)",6700,Climbed,1984,Spain,CHOP84301
+CHUL,Chulu Central,Chulu East,Damodar Himal (E of Thorong La),6584,Climbed,1955,W Germany,CHUL55201
+CHUG,Chukyima Go,Chugimago,Rolwaling Himal (WSW of Tesi Laptsa),6258,Climbed,2014,Slovenia,CHUG14301
+CHUR,Churen Himal Central,NA,Dhaulagiri Himal (NW of Dhaulagiri VI),7385,Climbed,1970,Japan,CHUR70301
+CHUW,Chulu West,NA,Damodar Himal (E of Thorong La),6419,Climbed,1952,Japan,CHUW52301
+TAPL,Taple Shikhar,Cross Peak,Kangchenjunga Himal (W of Nepal Peak),6447,Climbed,1998,"Japan, Nepal",TAPL98301
+CTSE,Changtse,Everest North Peak,North of Everest (in Tibet),7583,Climbed,1982,W Germany,CTSE82301
+DHA1,Dhaulagiri I,NA,Dhaulagiri Himal,8167,Climbed,1960,"Switzerland, Austria, W Germany, Nepal",DHA160101
+DHA2,Dhaulagiri II,NA,Dhaulagiri Himal (NW of Dhaulagiri I),7751,Climbed,1971,"Austria, USA, Nepal",DHA271101
+DHA3,Dhaulagiri III,"Nalu, Naula",Dhaulagiri Himal (SW of Dhaulagiri II),7715,Climbed,1973,W Germany,DHA373301
+DHA4,Dhaulagiri IV,NA,Dhaulagiri Himal (W of Dhaulagiri V),7661,Climbed,1975,Japan,DHA475101
+DHA5,Dhaulagiri V,NA,Dhaulagiri Himal (SW of Dhaulagiri III),7618,Climbed,1975,"Japan, Nepal",DHA575101
+DHA6,Dhaulagiri VI,NA,Dhaulagiri Himal (WSW of Dhaulagiri IV),7268,Climbed,1970,Japan,DHA670101
+DHAM,Dhampus,"Thapa Peak, Marpha Peak",Mukut Himal (NE of Dhaulagiri I and Tukuche),6012,Climbed,1960,Austria,DHAM60101
+DOGA,Dogari,NA,Dhaulagiri Himal (WNW of Putha Hiunchuli),6536,Unclimbed,NA,NA,NA
+PEMK,Pemthang Karpo Ri,"Dome Blanc, Kan Karmo",Jugal Himal (NNW of Dorje Lhakpa on Tibetan border),6865,Climbed,1955,"Switzerland, Nepal",PEMK55101
+DORJ,Dorje Lhakpa,NA,Jugal Himal (near Tibetan border),6966,Climbed,1981,"Japan, Nepal",DORJ81301
+DRAN,Drangnag Ri,Thaknak Ri,Rolwaling Himal (N of Tesi Laptsa near Tibetan border),6757,Climbed,1995,"Norway, UK, Nepal",DRAN95101
+DROM,Drohmo,"Domo, Longridge Peak",Jongsang Himal (NNW of Kangchenjunga),6881,Unclimbed,NA,NA,NA
+EVER,Everest,"Sagarmatha, Chomolungma, Qomolungma",Khumbu Himal,8850,Climbed,1953,"New Zealand, India",EVER53101
+FANG,Fang,"Varaha Shikhar, Varaha Chuli, Finger",Annapurna Himal (SW of Annapurna I),7647,Climbed,1980,"Austria, Nepal",FANG80101
+FIRN,Firnkopf,Firnkopf East,Saipal Himal (W of Saipal),6730,Unclimbed,NA,NA,NA
+FIRW,Firnkopf West,NA,Saipal Himal (WSW of Firnkopf),6745,Climbed,1987,"Austria, W Germany, Nepal",FIRW87301
+GAMA,Gama Peak,NA,"Dhaulagiri Himal (N of Dhaulagiri VI, S of Junction Peak)",7187,Climbed,1970,Japan,GAMA70301
+GAN1,Ganesh I,Yangra Kangri,Ganesh Himal (on Tibetan border),7422,Climbed,1955,"Switzerland, France",GAN155301
+GAN3,Ganesh III,"Salasungo, Kang Lombo, Lopsang Karbo",Ganesh Himal (S of Ganesh I on Tibetan border),7043,Climbed,1979,"Japan, Nepal",GAN379301
+GAN2,Ganesh II,NA,Ganesh Himal (WSW of Ganesh I),7118,Climbed,1981,"W Germany, Nepal",GAN281302
+GAN4,Ganesh IV,Pabil,Ganesh Himal (SW of Ganesh I),7104,Climbed,1978,"Japan, Nepal",GAN478301
+GAN5,Ganesh V,NA,Ganesh Himal (SE of Ganesh I on Tibetan border),6770,Climbed,1980,"Japan, Nepal",GAN580101
+GAN6,Ganesh VI,NA,Ganesh Himal (subpeak SE of Ganesh II),6908,Climbed,2000,Japan,GAN600101
+GANC,Ganchenpo,"Fluted Peak, Ganchempo",Jugal Himal (W of Dorje Lhakpa and Urkinmang),6378,Climbed,1971,USA,GANC71302
+GAND,Gandharva Chuli,"Gandharbha, Gabelhorn Peak",Annapurna Himal (SSW of Annapurna III near Machhapuchhare),6248,Climbed,2013,Romania,GAND13101
+GANG,Gangapurna,NA,Annapurna Himal (NW of Annapurna III),7455,Climbed,1965,"W Germany, Nepal",GANG65101
+GAUR,Gaurishankar,Jomo Tseringma,Rolwaling Himal (on Tibetan border),7135,Climbed,1979,"US, Nepal",GAUR79101
+GHUN,Ghustang North,NA,Dhaulagiri Himal (WNW of Gurja Himal),6529,Climbed,1962,"UK, Nepal",GHUN62301
+GHUS,Ghustang South,"Gurja West, Paschim Himal",Dhaulagiri Himal (WSW of Gurja Himal),6465,Climbed,2019,"France, Canada, Switzerland, Nepal",GHUS18301
+MATA,Matathumba,"Matatumpa, Ghyuthumba East",Jagdula Lekh (S of Kanjiroba Himal),5767,Climbed,1961,"UK, Nepal",MATA61101
+GHYM,Ghyuthumba Main,"Gutumpa, Pasang Peak",Jagdula Lekh (S of Kanjiroba Himal),5806,Climbed,1953,"Austria, Nepal, India",GHYM53301
+GIME,Gimmigela Chuli East,Twins,Kangchenjunga Himal (N of Kangchenjunga on Indian border),7007,Climbed,1993,"Japan, Nepal",GIME93301
+GIMM,Gimmigela Chuli,Twins,Kangchenjunga Himal (N of Kangchenjunga on Indian border),7350,Climbed,1994,"Japan, Nepal",GIMM94301
+GLAC,Glacier Dome,"Tarke Kang, Tarke Khang",Annapurna Himal (E of Annapurna I),7168,Climbed,1964,"Japan, Nepal",GLAC64301
+GURJ,Gurja Himal,NA,Dhaulagiri Himal (S of Dhaulagiri VI),7193,Climbed,1969,"Japan, Nepal",GURJ69301
+GURK,Gurkarpo Ri,NA,Jugal Himal (N of Dorje Lhakpa on Tibetan border),6889,Climbed,2007,France,GURK07301
+GYAC,Gyachung Kang,NA,Khumbu Himal (E of Cho Oyu on Tibetan border),7861,Climbed,1964,"Japan, Nepal",GYAC64101
+GYAJ,Gyajikang,Gyaji Khang,Peri Himal (SW of Himlung Himal),7074,Climbed,1994,"Japan, Nepal",GYAJ94301
+LEOE,Leonpo Gang East,Gyalgen Peak,Jugal Himal (NE of Leonpo Gang on Tibetan border),6733,Climbed,1955,"UK, Nepal",LEOE55101
+HIME,Himalchuli East,Himalchuli Main,Mansiri Himal (SE of Manaslu),7893,Climbed,1960,Japan,HIME60101
+HIML,Himlung Himal,NA,Peri Himal (NW of Manaslu near Tibetan border),7126,Climbed,1992,"Japan, Nepal",HIML92301
+HIMN,Himalchuli North,NA,"Mansiri Himal (SE of Manaslu, WNW of Himalchuli Main)",7331,Climbed,1985,"S Korea, Nepal",HIMN85302
+RANI,Rani Peak,"Lidanda Peak, Himalchuli Northeast","Mansiri Himal (SE of Manaslu, NE of Himalchuli Main)",6693,Climbed,1970,"Netherlands, Nepal",RANI70101
+HIMW,Himalchuli West,NA,"Mansiri Himal (SE of Manaslu, W of Himalchuli Main)",7540,Climbed,1978,Japan,HIMW78101
+HIUP,Hiunchuli,Patal Hiunchuli,Annapurna Himal (E of Annapurna South),6434,Climbed,1971,USA,HIUP71301
+HNKU,Hongku Chuli,"Hunku Chuli, Pyramid Peak","Khumbu Himal (in Hongku Valley, NE of Chamlang)",6833,Unclimbed,NA,NA,NA
+HONG,Hongde,"Hangde, Hongde Himal",Mukut Himal (N of Sita Chuchura in Hidden Valley),6556,Climbed,1962,"Japan, Nepal",HONG62101
+IMJA,Imjatse,Island Peak,Khumbu Himal (S of Lhotse),6165,Climbed,1956,"Switzerland, Nepal",IMJA56101
+JAGD,Jagdula,NA,Jagdula Lekh (S of Kande Hiunchuli),5761,Climbed,2013,France,JAGD13101
+JANU,Jannu,Khumbhakarna,Kangchenjunga Himal (W of Kangchenjunga),7711,Climbed,1962,"France, Nepal",JANU62101
+JETH,Jethi Bahurani,"Jettiborani, Jutibofurani",Api Himal (S of Nampa and Bobaye),6850,Climbed,1978,Japan,JETH78101
+JONG,Jongsang,"Jonsong, Jhinsang",Jongsang Himal (on Indian-Tibetan border),7462,Climbed,1930,"Germany, Austria",JONG30101
+JUNC,Junction Peak,NA,"Dhaulagiri Himal (on ridge joining Dhaulagiri VI, IV and Churen)",7133,Unclimbed,NA,NA,NA
+KABD,Kabru Dome,NA,Simhalila Himal (SE of Kabru in India),6600,Climbed,1982,India,KABD82301
+KABN,Kabru North,NA,Simhalila Himal (S of Kabru Main on Indian border),7338,Climbed,1935,UK,KABN35301
+KAG1,Kagmara I,NA,Kagmara Lekh (S of Kanjiroba Himal),5978,Climbed,1962,"UK, Nepal",KAG162101
+KAN1,Kande Hiunchuli North  I,NA,Kanjiroba Himal (NW of Kanjiroba),6521,Unclimbed,NA,NA,NA
+KAN2,Kande Hiunchuli North  II,NA,Kanjiroba Himal (NW of Kanjiroba),6471,Climbed,1980,Switzerland,KAN280101
+KANB,Kangbachen,Kambachen,Kangchenjunga Himal (W Spur of Kangchenjunga),7902,Climbed,1974,Poland,KANB74101
+KANC,Kangchenjunga Central,NA,Kangchenjunga Himal (between Main and South summits),8473,Climbed,1978,Poland,KANC78102
+KAND,Kande Hiunchuli,NA,Kanjiroba Himal (WNW of Kanjiroba),6627,Climbed,1972,Japan,KAND72301
+KANG,Kangchenjunga,NA,Kangchenjunga Himal,8586,Climbed,1955,UK,KANG55101
+KANS,Kangchenjunga South,NA,Kangchenjunga Himal,8476,Climbed,1978,Poland,KANS78101
+KARY,Karyolung,NA,Rolwaling Himal (SE of Numbur),6530,Climbed,1982,"Japan, Nepal",KARY82301
+KCHN,Kangchung Nup,"Khangchung Nup, Kangcho Nup, Cholo",Khumbu Himal (NE of Gokyo Lake),6043,Climbed,1953,"UK, New Zealand",KCHN53101
+NAYA,Naya Kanga,"Kangja Chuli, Ghanja La Chuli",Jugal Himal (W of Ganchempo by Kangja La),5863,Climbed,NA,NA,NA
+KGUR,Kang Guru,Naurgaon,Peri Himal (SW of Himlung Himal),6981,Climbed,1955,W Germany,KGUR55201
+KHAT,Khatang,NA,Rolwaling Himal (E of Numbur),6790,Climbed,1982,"Japan, Nepal",KHAT82301
+KHON,Khongma Tse,Mehra Peak,Khumbu Himal (SW of Nuptse),5798,Climbed,NA,NA,NA
+KJER,Kanjeralwa,Kanchen Ruwa,Kanjiroba Himal (NW of Phoksumdo Tal),6612,Climbed,1973,"Japan, Nepal",KJER73101
+KJRN,Kanjiroba North,NA,Kanjiroba Himal,6858,Unclimbed,NA,NA,NA
+KJRS,Kanjiroba South,NA,Kanjiroba Himal,6883,Climbed,1970,Japan,KJRS70301
+KOTA,Kotang,"Kokthang, Kothang Kang",Simhalila Himal (SSW of Rothang on Indian border),6148,Climbed,1982,Inida,KOTA82301
+KTEG,Kangtega,"Kantega, Khangtega, Kang Taiga",Khumbu Himal (SW of Ama Dablam),6783,Climbed,1963,"New Zealand, USA",KTEG63101
+KTSU,Kangtsune,"Kangchunne, Kanchauni Lekh","Kagmara Lekh (SE of Kanjiroba, W of Kanjeralwa)",6444,Unclimbed,NA,NA,NA
+KUSU,Kusum Kanguru,"Kusum Kang, Lamu",Khumbu Himal (NE of Lukla village),6370,Climbed,1981,New Zealand,KUSU81302
+KWAN,Kwangde,NA,Rolwaling Himal (W of Namche Bazar),6186,Climbed,1978,Japan,KWAN78301
+LAMJ,Lamjung Himal,NA,Annapurna Himal (SE of Annapurna II),6983,Climbed,1974,UK,LAMJ74101
+LANG,Langtang Lirung,Langtang,Langtang Himal,7227,Climbed,1978,"Japan, Nepal",LANG78301
+LANR,Langtang Ri,NA,Langtang Himal (NE of Langtang Lirung on Tibetan border),7205,Climbed,1981,"Japan, Nepal",LANR81301
+LEON,Leonpo Gang,"Dorje Pahad, Big White Peak",Jugal Himal (NNE of Dorje Lhakpa on Tibetan border),6979,Climbed,1962,Japan,LEON62101
+LHAS,Lha Shamma,"Lhasharma, Pinnacle Peak","Kagmara Lekh (S of Kanjiroba, NNW of Kagmara I)",6412,Climbed,1962,"UK, Nepal",LHAS62101
+LHOT,Lhotse,NA,Khumbu Himal,8516,Climbed,1956,Switzerland,LHOT56101
+MUKT,Mukut Himal,"Mukot Himal, Langru","Mukut Himal (N of Sita Chuchura, S of Hongde)",6087,Climbed,1967,Netherlands,MUKT67301
+LNPO,Langpo,Longpo,Jongsang Himal (SE of Jongsang on Indian border),6965,Climbed,1909,UK,LNPO09301
+LOBE,Lobuje East,Lobuche East,Khumbu Himal (SW of Pumori),6090,Climbed,1984,"USA, Nepal",LOBE84101
+LOBW,Lobuje West,Lobuche West,Khumbu Himal (SW of Pumori),6135,Climbed,1984,Japan,LOBW84301
+LSHR,Lhotse Shar,Lhotse II,Khumbu Himal (ESE of Lhotse and Lhotse Middle),8382,Climbed,1970,Austria,LSHR70101
+LSIS,Langshisa Ri,Langsisa Ri,Jugal Himal (NW of Dorje Lhakpa),6412,Climbed,1982,"Japan, Nepal",LSIS82101
+MACH,Machhapuchhare,NA,Annapurna Himal (SE of Annapurna III),6993,Unclimbed,NA,NA,NA
+BTAK,Bhairab Takura,Madiya,Jugal Himal (ENE of Dorje Lhakpa on Tibetan border),6799,Climbed,1960,"Japan, Nepal",BTAK60101
+MAK2,Makalu II,Kangchungtse,Makalu Himal (NNW of Makalu on Tibetan border),7678,Climbed,1954,"UK, Nepal",MAK254301
+MAKA,Makalu,NA,Makalu Himal,8485,Climbed,1955,France,MAKA55101
+MANA,Manaslu,"Kutang I, Peak 30",Manaslu Himal,8163,Climbed,1956,"Japan, Nepal",MANA56101
+MANN,Manaslu North,Manaslu II,Manaslu Himal (N of Manaslu),6994,Climbed,1964,"Netherlands, Austria, Nepal",MANN64301
+MANP,Manapathi,NA,Dhaulagiri Himal (SSW of Dhaulagiri I),6380,Climbed,1956,"Argentina, Nepal",MANP56101
+MARD,Mardi Himal,NA,Annapurna Himal (SW of Machhapuchhare),5553,Climbed,1962,"UK, Nepal",MARD62101
+MERA,Mera Peak,""False" Mera Peak",Khumbu Himal (S of Ama Dablam),6470,Climbed,1953,"UK, Nepal",MERA53101
+MING,Mingbo Ri,NA,Khumbu Himal (S of Ama Dablam and Mingbo La),6207,Unclimbed,NA,NA,NA
+NALA,Nalakankar North,NA,Nalakankar Himal (on W Nepal/Tibetan border),6062,Climbed,2000,"Japan, Nepal",NALA00201
+NAMP,Nampa,Chisel Peak,Api Himal (E of Api),6729,Climbed,1972,Japan,NAMP72101
+NCHU,Nupchu,Sharphu IV,Ohmi Kangri Himal (NW of Kangchenjunga),6172,Climbed,1962,Japan,SPH462101
+NEMJ,Nemjung,NA,Peri Himal (S of Himlung Himal and Himjung),7140,Climbed,1983,"Japan, Nepal",NEMJ83301
+NEPA,Nepal Peak,NA,Jongsang Himal (N of Kangchenjunga on Indian border),7177,Climbed,1930,Austria,NEPA30101
+NGO2,Ngojumba Kang II,NA,Khumbu Himal (NE of Cho Oyu on Tibetan border),7743,Climbed,1965,"Japan, Nepal",NGO265101
+NGOJ,Ngojumba Kang I,"Ngozumba Kang, Ngozumba Ri, Tenzing Peak",Khumbu Himal (NE of Cho Oyu on Tibetan border),7916,Climbed,1982,"S Korea, Nepal",NGOJ82302
+NILC,Nilgiri Central,NA,Annapurna-Nilgiri Himal (NW of Annapurna I),6940,Climbed,1979,Japan,NILC79101
+NILN,Nilgiri North,NA,Annapurna-Nilgiri Himal (NW of Annapurna I),7061,Climbed,1962,"Netherlands, France, Nepal",NILN62301
+NILS,Nilgiri South,NA,Annapurna-Nilgiri Himal (NW of Annapurna I),6839,Climbed,1978,Japan,NILS78301
+NUMB,Numbur,NA,Rolwaling Himal (SW of Namche Bazar),6958,Climbed,1963,"Japan, Nepal",NUMB63101
+NUPT,Nuptse,NA,Khumbu Himal (SW of Everest),7864,Climbed,1961,"UK, Nepal",NUPT61101
+OHMI,Ohmi Kangri,NA,Ohmi Kangri Himal (NW of Kangchenjunga on Tibetan border),6839,Climbed,1985,Switzerland,OHMI85101
+OMBK,Ombak Himal,NA,Ohmi Kangri Himal (NE of Ombak La in Tibet),6300,Unclimbed,NA,NA,NA
+PALD,Paldor,Bharange,Ganesh Himal (SE of  Ganesh V),5903,Climbed,1949,"UK, Nepal",PALD49201
+PANG,Pangbuk Ri,NA,Rolwaling Himal (N of Menlung La on Tibetan border),6625,Climbed,2011,USA,PANG11301
+PARC,Parchamo,"Parchermo, Parchemuche, Pachermo",Rolwaling Himal (S of Tesi Laptsa),6279,Climbed,1955,UK,PARC55101
+PATR,Patrasi Himal,Kande Hiunchuli North,Kanjiroba Himal (NE of Kande Huinchuli),6450,Unclimbed,NA,NA,NA
+PETH,Pethangtse,NA,Khumbu Himal (NW of Makalu on Tibetan border),6739,Climbed,1954,"New Zealand, Nepal",PETH54101
+PHUR,Phurbi Chhyachu,Phurbi Ghyachu,Jugal Himal (SE of Dorje Lhakpa on Tibetan border),6637,Climbed,1982,"Japan, Nepal",PHUR82101
+PIMU,Pimu,Pamalka,Rolwaling Himal (N of Tesi Laptsa),6344,Climbed,1955,UK,PIMU55101
+PISA,Pisang,Jong Ri,Damodar Himal (N of Marysangdi Valley),6091,Climbed,1955,W Germany,PISA55201
+PK29,Peak 29,"Ngadi Chuli, Dakura, Dr Harka Gurung Chuli",Manaslu Himal (S of Manaslu),7871,Climbed,1979,Poland,PK2979101
+POIN,Pointed Peak,NA,"Khumbu Himal (N of Cholatse, S of Tshola La)",5850,Climbed,1953,UK,POIN53101
+POKA,Pokalde,NA,Khumbu Himal (N of Ama Dablam),5780,Climbed,1953,UK,POKA53101
+OMBG,Ombigaichen,Puma Dablam,Khumbu Himal (SE of Ama Dablam),6340,Climbed,1960,"New Zealand, Nepal",OMBG60301
+PUMO,Pumori,NA,Khumbu Himal (WNW of Everest on Tibetan border),7138,Climbed,1962,"W Germany, Switzerland",PUMO62101
+PUTH,Putha Hiunchuli,Dhaulagiri VII,Dhaulagiri Himal (W of Churen Himal),7246,Climbed,1954,"UK, Nepal",PUTH54301
+PYRM,Pyramid Peak,"Pathibhara Chuli, Pathibhara Khas",Jongsang Himal (N of Kangchenjunga on Indian border),7140,Climbed,1993,"Japan, India",PYRM93101
+RAKS,Raksha Urai,Raksha Urai III,Raksha Urai Himal (ESE of Nampa),6609,Climbed,2003,"France, Nepal",RAKS03301
+RAMD,Ramdung,Ramdong Go,Rolwaling Himal (W of Tesi Laptsa),5900,Climbed,1952,"UK, Nepal",RAMD52301
+RATH,Rathong,NA,Simhalila Himal (SW of Kabru on Indian border),6682,Climbed,1964,India,RATH64301
+ROCN,Roc Noir,"Khangsar Kang, Khang Sar Khang",Annapurna Himal (ENE of Annapurna I),7485,Climbed,1969,W Germany,ROCN69101
+ROKA,Rokapi,Kapchuli,"Api Himal (S of Nampa, Bobaye and Jethi Bahurani)",6468,Climbed,1977,UK,ROKA77301
+SAIE,Saipal East Humla,NA,Saipal Himal (NE of Saipal),6925,Climbed,1990,"Switzerland, Nepal",SAIP90301
+SAIP,Saipal,NA,Saipal Himal,7030,Climbed,1963,"Japan, Nepal",SAIP63301
+SHAR,Shartse,"Peak 38, Shanti Shikhar",Khumbu Himal (E of Lhotse Shar on Tibetan border),7591,Unclimbed,NA,NA,NA
+SHA2,Shartse II,Junction Peak,Khumbu Himal (E of Lhotse Shar on Tibetan border),7457,Climbed,1974,"Austria, W Germany",SHA274101
+SHEY,Shey Shikhar,Junction Peak,Kanjiroba Himal (SE of Kanjiroba and Tripura Hiunchuli),6139,Climbed,2007,Japan,SHEY07201
+SING,Singu Chuli,Fluted Peak,Annapurna Himal (Annapurna Sanctuary),6501,Climbed,1957,UK,SING57101
+SISN,Sisne Himal,Hiunchuli Patan,Sisne Himal (SW of Juphal in Rukum),5911,Climbed,2013,"Nepal, USA",SISN13101
+SITA,Sita Chuchura,NA,Mukut Himal (ENE of Dhaulagiri II near French Pass),6611,Climbed,1970,"Japan, Nepal",SITA70301
+SNOW,Snow Peak,NA,Dhaulagiri Himal (E of Dhaulagiri II),6530,Unclimbed,NA,NA,NA
+SPHN,Sphinx,"Pathibhara Phurba, Pathibhara East",Jongsang Himal (NE of Pathibhara on Indian border),6825,Climbed,1936,UK,SPHN36101
+SPH1,Sharphu I,Tanga I,Ohmi Kangri Himal (WNW of Kangchenjunga),6433,Climbed,1963,Japan,SPH163301
+SURM,Surma-Sarovar North,NA,Api Himal (SSE of Jethi Bahurani),6564,Unclimbed,NA,NA,NA
+TAWO,Tawoche,Taboche,Khumbu Himal (NW of Ama Dablam),6495,Climbed,1974,France,TAWO74101
+KIRA,Kirat Chuli,Tent Peak,Jongsang Himal (N of Kangchenjunga on Indian border),7362,Climbed,1939,"Switzerland, Germany",KIRA39101
+THAM,Thamserku,Tramserku,Khumbu Himal (SW of Ama Dablam),6618,Climbed,1964,New Zealand,THAM64301
+THAR,Tharpu Chuli,Tent Peak,Annapurna Himal (Annapurna Sanctuary),5695,Climbed,1964,Japan,THAR64301
+TILI,Tilicho,Tilitso,Annapurna-Nilgiri Himal (N of Annapurna I),7134,Climbed,1978,France,TILI78301
+TLNG,Talung,NA,Simhalila Himal (S of Kangchenjunga on Indian border),7349,Climbed,1964,"W Germany, Nepal",TLNG64101
+TONG,Tongu,NA,Mukut Himal (N of Hongde in Hidden Valley),6187,Climbed,1959,USA,TONG59301
+TRIP,Tripura Hiunchuli,"Tripura Thumba, Hanging Glacier Peak",Kanjiroba Himal (SE of Kanjiroba),6553,Climbed,1986,"Japan, Nepal",TRIP86301
+TSOK,Tso Karpo Kang,Tso Karpo Khang,Kanjiroba Himal (E of Kanjiroba),6556,Climbed,1971,Japan,TSOK71301
+TUKU,Tukuche,NA,Dhaulagiri Himal (NE of Dhaulagiri I),6920,Climbed,1970,Japan,TUKU70101
+URKM,Urkinmang,Buddha,Jugal Himal (W of Dorje Lhakpa),6143,Climbed,1964,"Japan, Nepal",URKM64101
+ANID,Anidesh Chuli,White Wave Peak,Kangchenjunga Himal (W of Kangbachen),6808,Unclimbed,NA,NA,NA
+TSUR,Tsaurabong Peak,"Chara Ban Peak, White Peak",Dhaulagiri Himal (SSE of Dhaulagiri V),6395,Climbed,1974,"Japan, Nepal",TSUR74101
+YALU,Yalung Kang,Yalungkar,Kangchenjunga Himal (W summit of Kangchenjunga),8505,Climbed,1973,Japan,YALU73101
+PASA,Pasang Lhamu Chuli,Jasemba,Khumbu Himal (W of Cho Oyu & Cho Aui on Tibetan border),7350,Climbed,1986,Japan,PASA86301
+RATC,Ratna Chuli,NA,Peri Himal (NW of Himlung on Tibetan border),7035,Climbed,1996,"Japan, Nepal",RATC96301
+KANT,Kanti Himal,"Ronglai Kangri, Kaqur Kangri, Kubi Grangri",Kanti Himal (NNW of Kanjiroba on Tibetan border),6850,Climbed,2002,"Japan, Nepal",KANT02301
+RAMT,Ramtang,NA,Kangchenjunga Himal (N of Kangbachen),6601,Climbed,1930,"Austria, UK",RAMT30101
+LING,Lingtren,NA,Khumbu Himal (ENE of Pumori on Tibetan border),6713,Climbed,1935,UK,LING35201
+TENG,Tengkoma,Tang Kongma,Jongsang Himal (NW of Kangchenjunga),6215,Climbed,1949,"Switzerland, Nepal",TENG49101
+RAMC,Ramtang Chang,"Wedge Peak, Chang Himal",Kangchenjunga Himal (N of Ramtang),6802,Climbed,1974,Yugoslavia,RAMC74301
+CHRE,Churen Himal East,NA,Dhaulagiri Himal (NW of Dhaulagiri VI),7371,Climbed,1970,"S Korea, Nepal",CHRE70101
+CHRW,Churen Himal West,NA,Dhaulagiri Himal (NW of Dhaulagiri VI),7371,Climbed,1970,"Japan, Nepal",CHRW70301
+CHRI,Chhukung Ri,NA,Khumbu Himal (S of Lhotse),5550,Climbed,1965,Netherlands,CHRI65101
+KTOK,Kangtokal,Khang Tokal,Dhaulagiri Himal (on ridge N of Putha Hiunchuli),6294,Climbed,1962,"Japan, Nepal",KTOK62101
+SRKU,Serku Dolma,NA,Kanjiroba Himal (S of Tso Karpo Kang),6227,Climbed,1973,"Japan, Nepal",SRKU73301
+NALS,Nalakankar South,NA,Nalakankar Himal (on W Nepal/Tibetan border),6024,Climbed,2000,"Japan, Nepal",NALS00201
+CHWT,Changwathang,NA,Chandi Himal (S of Tibetan border),6130,Climbed,2000,"Japan, Nepal",CHWT00201
+TAKP,Takphu Himal,NA,Nalakankar Himal (on W Nepal/Tibetan border),6395,Climbed,2018,"UK, Germany",TAKP18301
+MALA,Malanphulan,"Melanphulan, Hinku Ri","Khumbu Himal (S of Ama Dablam, NW of Kangtega)",6573,Climbed,2000,USA,MALA00101
+LHOM,Lhotse Middle,Lhotse Intermediate,Khumbu Himal (E of Lhotse),8410,Climbed,2001,Russia,LHOM01101
+SIMN,Simnang Himal,"P2, Simnang Himal East",Manaslu Himal (SE of Manaslu),6251,Climbed,2001,Ukraine,SIMN01101
+HCHI,Hungchhi,"Hunchhi, Chakung, Gyubanare Kang, Gyuba Tshomotse",Khumbu Himal (S of Gyachung Kang on Tibetan border),7029,Climbed,2003,"Japan, Nepal",HCHI03102
+LAMP,Lampo,"Langpo Kangri, Ganesh VI",Ganesh Himal (N of Ganesh I on Tibetan border),6648,Unclimbed,NA,NA,NA
+CHUK,Chhukung Tse,Chhukung Chuli,Khumbu Himal (S of Lhotse),5833,Climbed,1953,"UK, Nepal",CHUK53101
+DZAN,Dzanye,Dzanaye,Janak Himal (WNW of Lashar I on Tibetan border),6581,Climbed,1949,Switzerland,DZAN49101
+GAUG,Gaugiri,NA,Damodar Himal (N of Bhrikuti on Tibetan border),6110,Climbed,2002,USA,GAUG02101
+TKPO,Tengkangpoche,Thyangmoche,Rolwaling Himal (W of Kwangde),6482,Climbed,1984,"UK, USA",TKPO84301
+ARNK,Arniko Chuli,Araniko Chuli,Mukut Himal (W Mustang near Tibetan border),6034,Climbed,2002,"Japan, Nepal",ARNK02201
+SARI,Saribung,Selibung,Damodar Himal (W of Bhrikuti),6328,Climbed,2003,USA,SARI03301
+GHEN,Ghenge Liru,"Ghenye Lirung, Langtang II",Langtang Himal (WSW of Langtang Lirung),6596,Climbed,1963,"UK, Nepal",GHEN63101
+NAUL,Naulekh,NA,Khumbu Himal (S of Mera Peak),6340,Climbed,1954,New Zealand,NAUL54101
+CHEK,Chekigo,NA,Rolwaling Himal (ENE of Beding village on Tibetan border),6121,Climbed,2005,"UK, Switzerland",CHEK05101
+KTUN,Khatung Khang,NA,Annapurna-Nilgiri Himal (SW of Thorong La),6484,Climbed,1956,Switzerland,KTUN56101
+CHAG,Chago,NA,Makalu Himal (NW of Makalu II on Tibetan border),6893,Climbed,1954,"New Zealand, Nepal",CHAG54101
+NUMR,Numri,NA,"Khumbu Himal (S of Cho Polu, N of Baruntse)",6635,Climbed,2002,Germany,NUMR02301
+PK41,Peak 41,""True" Mera Peak",Khumbu Himal (ESE of Ama Dablam),6648,Climbed,2002,Slovenia,PK4102301
+KYAZ,Kyazo Ri,Kyajo Ri,Khumbu Himal (SW of Gokyo Lake),6151,Climbed,2002,"UK, France",KYAZ02301
+PAND,Pandra,NA,Ohmi Kangri Himal (NW of Lhonak),6670,Climbed,2002,Denmark,PAND02301
+DANG,Danga,NA,"Ohmi Kangri Himal (WNW of Lhonak, E of Nupchu)",6220,Climbed,2002,Denmark,DANG02301
+POKR,Pokharkang,Pokhar Khang,Damodar Himal (N of Pisang Peak),6372,Climbed,2002,"UK, Nepal",POKR02301
+NAG1,Nangpai Gosum I,"Nagpai Gosum I, Cho Aui",Khumbu Himal (WSW of Cho Oyu on Tibetan border),7321,Climbed,2017,Germany,NAG117301
+KGRI,Khangri Shar,NA,Khumbu Himal (W of Pumori),6792,Unclimbed,NA,NA,NA
+KGRW,Khangri West,NA,Khumbu Himal (W of Pumori),6658,Unclimbed,NA,NA,NA
+PURB,Purbung Himal,Putrung,Damodar Himal (N of Chulu West),6500,Unclimbed,NA,NA,NA
+TASH,Tashi Kang,Tashi Khang,Mukut Himal (N of Dhampus Peak),6386,Climbed,2002,"Japan, Nepal",TASH02201
+TENR,Tengi Ragi Tau,"Agole, Angole",Rolwaling Himal (N of Tesi Laptsa),6938,Climbed,2002,"Japan, Nepal",TENR02401
+KYAS,Kyashar,"Peak 43, Tangnag Tseng",Khumbu Himal (S of Kantega),6770,Climbed,2003,"UK, Austria, Swiss",KYAS03301
+NREK,Nirekha,NA,Khumbu Himal (NW of Lobuje Peak),6159,Climbed,NA,NA,NA
+NORB,Norbu Kang,Norbu Khang,Kanjiroba Himal (SE of Phoksumdo Tal),6085,Climbed,2003,"Japan, Nepal",NORB03201
+LNKE,Lunchhung Kamo East,NA,Kanti Himal (SE of Danfe Sail on Tibetan border),6024,Climbed,1999,"Japan, Nepal",LNKE99201
+LIK1,Linkhu Chuli Shar,"Bigphera-Go Shar, Pigpferago Shar, Linkhu Chuli I",Rolwaling Himal (S of Parchamo),6719,Climbed,2013,Germany,LIK113301
+LIK2,Linkhu Chuli Nup,"Bigphera-Go Nup, Pigpferago Nup, Linkhu Chuli II","Rolwaling Himal (SSW of Parchamo, W of Likhu Chuli Shar)",6659,Climbed,1960,"France, Nepal",LIK260301
+PANT,Panalotapa,"Paniyo Tapa, Paniyo Tippa",Rolwaling Himal (W of Tengkangpoche),6687,Climbed,1955,UK,PANT55101
+SHAL,Shalbachum,"Salbachum, Phrul Rangtshan Ri",Langtang Himal (E of Langtang Lirung on Tibetan border),6707,Climbed,1959,"Japan, Nepal",SHAL59301
+KHUM,Khumbutse,NA,Khumbu Himal (NW of Lho La on Tibetan border),6639,Unclimbed,NA,NA,NA
+BOKT,Boktoh,Bokta,Kangchenjunga Himal (SE of Jannu),6114,Climbed,1991,Yugoslavia,BOKT91101
+MOJC,Mojca,Mojka,Kangchenjunga Himal (W of Ramtang Chang),6024,Climbed,1974,Yugoslavia,MOJC74301
+PLNG,Palung,Palung Ri,North of Cho Oyu (in Tibet),7012,Climbed,1952,New Zealand,PLNG52101
+TUTS,Tutse,"Peak 6, Nephu",Makalu Himal (SE of Makalu),6758,Unclimbed,NA,NA,NA
+NUPE,Nuptse East I,NA,Khumbu Himal (E of Nuptse main summit),7795,Climbed,2003,Russia,NUPE03301
+AMOT,Amotsang,Amatson,Damodar Himal (NW of Pokharhan),6393,Climbed,2019,Germany,NA
+YANS,Yansa Tsenji,"Dragpoche, Dhagpache",Langtang Himal (SW of Shalbachum on Tibetan border),6567,Unclimbed,NA,NA,NA
+HIMJ,Himjung,Nemjung Goth,Peri Himal (S of Himlung Himal),7092,Climbed,2012,S Korea,HIMJ12301
+AMPH,Amphu I,NA,"Khumbu Himal (E of Amphu Laptsa, W of Baruntse)",6740,Climbed,2013,S Korea,AMPH13301
+CHAB,Chabuk,Tsajirip,Ohmi Kangri Himal (E of Ohmi Kangri on Tibetan border),6792,Unclimbed,NA,NA,NA
+CHAK,Chako,NA,Damodar Himal (ESE of Bhrikuti Shail),6704,Climbed,2007,"Japan, Nepal",CHAK07201
+DOMK,Dome Kang,NA,Jongsang Himal (ESE of Jongsong on Indian border),7264,Climbed,2009,"Spain, Nepal",DOMK09101
+GHAN,Ghhanyala Hies,NA,Janak Himal (NW of Janak Chuli on Tibetan border),6744,Unclimbed,NA,NA,NA
+HUNK,Hunku,NA,Khumbu Himal (NNE of Peak 41),6119,Climbed,2012,UK,HUNK12302
+JANK,Janak Chuli,"Janak, Outlier",Janak Himal (WNW of Jongsang on Tibetan border),7041,Climbed,2006,Slovenia,JANK06101
+KABS,Kabru South,NA,Simhalila Himal (S of Kabru North on Indian border),7318,Climbed,1994,India,KABS94101
+KABR,Kabru Main,Kabru Central,Simhalila Himal (S of Talung on Indian border),7412,Climbed,1994,India,KABR94101
+LASH,Lashar I,Loshar I,Janak Himal (NW of Lashar II on Tibetan border),6842,Climbed,2005,Slovenia,LASH05301
+LAS2,Lashar II,Loshar II,Janak Himal (SW of Ghhanyala Hies on Tibetan border),6803,Unclimbed,NA,NA,NA
+NAG2,Nangpai Gosum II,"Nagpai Gosum II, Chamar",Khumbu Himal (WSW of Cho Oyu on Tibetan border),7287,Unclimbed,NA,NA,NA
+NANG,Nangamari I,NA,Ohmi Kangri Himal (W of Chaw Peak on Tibetan border),6547,Climbed,2010,Australia,NANG10301
+PANB,Panbari,NA,Peri Himal (NW of Larkya La),6905,Climbed,2006,Japan,PANB06301
+PHNH,Phungi Himal,NA,Manaslu Himal (W of Manaslu),6538,Climbed,2017,Russia,PHNH17301
+MARI,Mariyang,NA,Kanti Himal (SE of Kanti Himal on Tibetan border),6528,Unclimbed,NA,NA,NA
+TKRG,Takargo,Dragker-go,Rolwaling Himal (E of Chobutse),6771,Climbed,2010,USA,TKRG10101
+THUL,Thulagi,Mansiri Himal,Manaslu Himal (SW of Manaslu),7059,Climbed,2015,Russia,THUL15301
+JOMS,Jomsom Himal,Jomsang Himal,Damodar Himal (WNW of Amotsang Himal),6335,Climbed,2003,"France, Nepal",JOMS03301
+BAMO,Bamongo,NA,Rolwaling Himal (E of Chekigo on Tibetan border),6406,Climbed,2013,"Nepal, China",BAMO13301
+CHAW,Chaw Peak,Chaw East,Ohmi Kangri Himal (WNW of Ohmi Kangri on Tibetan border),6404,Unclimbed,NA,NA,NA
+DING,Dingjung North,"Kangkuru, Rima Mancho",Rolwaling Himal (S of Pangbuk Ri on Tibetan border),6249,Climbed,1955,UK,DING55101
+KNAG,Kang Nagchugo,Khang Nagchugo,Rolwaling Himal (E of Chekigo on Tibetan border),6737,Climbed,2008,USA,KNAG08301
+KBON,Konabon,Kambon,Dhaulagiri Himal (SE of Gurja Himal),6570,Unclimbed,NA,NA,NA
+KHAM,Khamjung,"Khumjung, Khamjungar",Damodar Himal (W of Saribung and Bhrikuti),6759,Climbed,1982,Japan,NA
+KYR1,Kyungka Ri 1,Kyungya Ri 1,Langtang Himal (NE of Shalbachum near Tibetan border),6599,Climbed,2017,S Korea,KYR117301
+KYR2,Kyungka Ri 2,Kyungya Ri 2,Langtang Himal (NE of Shalbachum on Tibetan border),6506,Unclimbed,NA,NA,NA
+KOJI,Kojichuwa Chuli,NA,Kanti Himal (NNW of Kanti Himal peak on Tibetan border),6439,Climbed,2010,Japan,KOJI10101
+CHIV,Chhiv Himal,Chhib Himal,Damodar Himal (SW of Saribang and WSW of Bhrikuti),6650,Climbed,2004,Japan,CHIV04301
+LMOC,Langmoche Ri,NA,Rolwaling Himal (N of Tesi Laptsa),6552,Climbed,2012,USA,LMOC12301
+LCHA,Lachama Chuli,"Kubi Kangri, Kubi Dongdong",Changla Himal (N of Gorakh Himal on Tibetan border),6721,Climbed,2007,Japan,LCHA07301
+PAN1,Panpoche 1,"Pang Phunch 1, Kutang Himal",Manaslu Himal (NE of Sama village near Tibetan border),6620,Climbed,2019,Georgia,PAN119301
+PAN2,Panpoche 2,Pang Phunch 2,Manaslu Himal (NE of Sama village near Tibetan border),6504,Climbed,2019,Georgia,PAN219301
+PHOL,Phole,NA,Kangchenjunga Himal (W of Kumbhakarna and Sobitongie),6645,Unclimbed,NA,NA,NA
+PHUK,Phu Kang,Phu Khang,Peri Himal (N of Cheo Himal on Tibetan border),6694,Unclimbed,NA,NA,NA
+LNGK,Langchung Khang,Langpo Chung,Jongsang Himal (NW of Langpo on Indian border),6786,Unclimbed,NA,NA,NA
+PK04,Peak 4,Shershon Ri,Khumbu Himal (SE of Baruntse),6736,Unclimbed,NA,NA,NA
+NAM2,Nampa II,NA,Api Himal (W of Nampa),6585,Unclimbed,NA,NA,NA
+NAM3,Nampa III,Nampa Chuli,Api Himal (SE of Nampa),6611,Unclimbed,NA,NA,NA
+NAMS,Nampa South,NA,"Api Himal (S of Nampa, W of Nampa Chuli)",6130,Unclimbed,NA,NA,NA
+SOBI,Sobithongie,NA,Kangchenjunga Himal (W of Kumbhakarna),6652,Unclimbed,NA,NA,NA
+SHER,Shershon,Peak 3,Makalu Himal (NE of Shershon village on Tibetan border),6432,Unclimbed,NA,NA,NA
+SWAK,Swaksa Kang,NA,Kanti Himal (SE of Kanti Himal peak on Tibetan border),6405,Unclimbed,NA,NA,NA
+TILJ,Tilje,NA,Peri Himal (SE of Gyajikang),6530,Unclimbed,NA,NA,NA
+TSAR,Tsartse,NA,Mukut Himal (N of Dhampus Peak),6343,Climbed,2018,"Japan, Nepal",TSAR18301
+YAKA,Yakawa Kang,NA,Damodar Himal (N of Thorong La),6482,Climbed,2010,"Japan, Nepal",YAKA10301
+YAUP,Yaupa,NA,Makalu Himal (NE of Shershon village on Tibetan border),6422,Climbed,1989,"UK, USA",YAUP89301
+TILK,Til Kang,NA,Nalakankar Himal (on W Nepal/Tibetan border),6369,Climbed,2018,UK,TILK18301
+YOKO,Yokopahar,Nampa VIII,Guras Himal (NNE of Nampa towards Tibetan border),6423,Unclimbed,NA,NA,NA
+SALW,Saldim West,"Peak 5, Saldim Ri, Yaphu Ri",Makalu Himal (ENE of Shershon village on Tibetan border),6388,Climbed,2016,Romania,SALW16301
+SAMD,Samdo,NA,Manaslu Himal (NNE of Panpoche 1 & 2 on Tibetan border),6335,Climbed,2009,Japan,SAMD09302
+PURK,Purkhung,"Purkhang, Purkung",Damodar Himal (NE of Thorong La),6126,Climbed,2004,Japan,PURK04201
+DZAS,Dzasampatse,NA,Khumbu Himal (S of Pasang Lhamu Chuli),6295,Climbed,2004,Slovenia,DZAS04301
+SWEL,Swelokhan,NA,Manaslu Himal (N of Samdo village on Tibetan border),6180,Unclimbed,NA,NA,NA
+MUPK,Mustang Peak,NA,Mustang Himal (S of Mustang Himal peak on Tibetan border),6229,Climbed,2001,"Japan, Nepal",MUPK01301
+JING,Jinjang,"Genjang, Gajang, Jijang",Damodar Himal (E of Thorong La),6111,Climbed,NA,NA,NA
+JOBO,Jobo Rinjang,Jobo Ribjang,Rolwaling Himal (SW of Nangpa La near Tibetan border),6778,Climbed,2009,USA,JOBO09101
+KYAB,Kyabura,"Ghabur, Temachungi","Kangchenjunga Himal (W of Kumbhakarna, Sobitongie and Phole)",6294,Unclimbed,NA,NA,NA
+KUML,Kumlung,Kang Kuru?,Damodar Himal (NE of Saribung and W of Bhrikuti),6355,Climbed,2008,France,KUML08301
+DGAR,Dhaulagari,Dhaulasiri,"Raksha Urai Himal (E of Bobaye, S of Raksha Urai)",6638,Unclimbed,NA,NA,NA
+LHAY,Lhayul Peak,NA,Api Himal (SW of Api Main),6395,Unclimbed,NA,NA,NA
+MERR,Merra,NA,Kangchenjunga Himal (WNW of Anidesh Chuli),6334,Climbed,2006,Denmark,MERR06301
+PBUK,Pabuk Kang,Kangata,Ohmi Kangri Himal (E of Nangamari I on Tibetan border),6244,Unclimbed,NA,NA,NA
+YANK,Yanme Kang,Yanme Khang,Ohmi Kangri Himal (NW of Nangamari on Tibetan border),6206,Climbed,2017,France,YANK17301
+DANS,Danphe Shail,Danfe Shail,Palchung Himal (N of Kanjiroba on Tibetan border),6103,Climbed,2017,"France, Nepal",DANS17301
+GAN7,Ganesh VII,NA,Ganesh Himal (E of Ganesh I in Tibet),6350,Unclimbed,NA,NA,NA
+PHAR,Pharilapcha,NA,Khumbu Himal (SW of Gokyo Lake),6017,Climbed,2003,Nepal,PHAR03101
+THOR,Thorong Peak,Thorung Peak,"Muktinath Himal, south of Thorong La",6144,Climbed,2007,"Japan, Nepal",THOR07301
+CHKA,Chamar Kang,"Chharka, Kangtega","Mukut Himal (NW of Tsharka village, SE of Tingkyu village)",6060,Climbed,2007,"Japan, Nepal",CHKA07301
+NUPK,Nupche Kang,"Friendship Peak, Nupche Himal",Khumbu Himal (ESE of Nangpa La on Tibetan border),6576,Climbed,1964,"W Germany, Nepal",NUPK64101
+PUCH,Punchen Himal,Puchen Himal,Shringi Himal (in Tsum Valley N of Pashuwo on Tibetan border),6049,Unclimbed,NA,NA,NA
+KAKU,Kang Kuru,NA,"Mustang Himal (NNE of Tsartse, WSW of Ghami village)",6344,Climbed,2008,USA,KAKU08101
+AMPM,Amphu Middle,Amphu North,Khumbu Himal (NE of Amphu Laptsa),6202,Climbed,2008,Germany,AMPM08101
+LUGU,Lugula,NA,Damodar Himal (E of Bhrikuti Sail on Tibetan border),6899,Climbed,2010,France,LUGU10301
+BHRS,Bhrikuti Shail,NA,Damodar Himal (NE of Thorong La on Tibetan border),6361,Climbed,2005,"France, Nepal",BHRS05101
+MYAG,Myagdi Matha,NA,Dhaulagiri Himal (S of Dhaulagiri IV),6273,Unclimbed,NA,NA,NA
+TOBS,Tobsar,Tabsar,Shringi Himal (ENE of Chamar),6065,Climbed,2017,Nepal,TOBS17301
+DINS,Dingjung Ri,Dingjung Ri South,Rolwaling Himal (S of Pangbuk Ri on Tibetan border),6196,Climbed,2008,Japan,DINS08101
+DUDH,Dudh Kundali,"Dui Tal Chuli, Two Lakes Peak",Jagdula Lekh (S of Kanjiroba Himal),6045,Climbed,1953,"Austria, Nepal, India",DUDH53301
+KAGA,Kanta Gaton,Kangfu Gaton,Kanjiroba Himal (SE of Phoksumdo Tal),5910,Climbed,2009,"France, Nepal",KAGA09201
+KAPT,Kaptang,NA,Kanti Himal (NW of Kanti Himal peak on Tibetan border),5965,Climbed,2009,"Japan, Nepal",KAPT09201
+ROMA,Roma,NA,Saipal Himal (SW of Saipal),5407,Unclimbed,NA,NA,NA
+RIPI,Ripimo Shar,"Khang Karpo, Kang Karpo",Rolwaling Himal (S of Dingjung Ri on Tibetan border),6647,Climbed,1952,UK,RIPI52101
+TSIS,Tsisima,"Chijima, MDM Peak",Janak Himal (WSW of Janak Chuli),6196,Climbed,1963,"Japan, Nepal",TSIS63101
+TAWA,Tawa,NA,Damodar Himal (NNE of Yakawa Kang),6110,Climbed,2010,"Japan, Nepal",TAWA10301
+URMA,Urkema,"Baden Powell Scout Peak, Urgyenma",Langtang Himal (W of Ganja La),5890,Climbed,2007,"Taiwan, S Korea, Singapore, Australia, Nepal",URMA07301
+MPNW,Manapathi NW,NA,"Dhaulagiri Himal (SSW of Dhaulagiri I, NW of Manapathi)",6384,Climbed,1977,"Italy, UK, W Germany",MPNW77101
+LUNR,Lunag Ri,"Lunag I, Rongshar Ri I, Ondrej Peak",Rolwaling Himal (SW of Nangpa La on Tibetan border),6895,Unclimbed,NA,NA,NA
+JASG,Jasemba Goth,Dzasampa Kang,Khumbu Himal (NW of Pasang Lhamu Chuli),6730,Climbed,1964,W Germany,JASG64101
+GOJN,Gojung,Mugu Chuli,Kanti Himal (WNW of Kanti Himal peak on Tibetan border),6310,Climbed,2011,UK,GOJN11301
+NAN2,Nangamari II,NA,Ohmi Kangri Himal (S of Nangamari I),6209,Climbed,2016,Japan,NAN216301
+DRAG,Dragmorpa Ri,"Thakmarpo Ri, Panaya Tippa",Langtang Himal (SW of Tilman's Col on Tibetan border),6185,Climbed,2013,Russia,DRAG13101
+SYKG,Syaokang,NA,Ohmi Kangri Himal (SW of Ohmi Kangri near Tibetan border),5929,Climbed,2012,New Zealand,SYKG12301
+BIJO,Bijora Hiunchuli,NA,Jagdula Lekh (S of Kande Huinchuli),6111,Unclimbed,NA,NA,NA
+CHUB,Chhuboche,NA,Damodar Himal (NNE of Pisang Peak),5606,Climbed,2013,UK,CHUB13301
+LUNW,Lunag West,NA,Rolwaling Himal (W of Lunag I on Tibetan border),6492,Climbed,2013,USA,LUNW13301
+DOMO,Domo,Jongsang SE Peak,Jongsang Himal (SE of Jongsong on Indian border),7447,Climbed,1930,"Germany, Nepal",DOMO30101
+LUN2,Lunag II,NA,Rolwaling Himal (SW of Nangpa La near Tibetan border),6812,Climbed,2010,France,LUN210301
+TRIA,Triangle Peak,NA,Jugal Himal (NNW of Dome Blanc on Tibetan border),6484,Climbed,2013,France,TRIA13301
+KASI,Kasi Dalpha,NA,Jagdula Lekh (S of Kande Huinchuli),6386,Unclimbed,NA,NA,NA
+NPHU,Narphu,NA,"Damodar Himal (WNW of Pisang Peak, E of Chulu East Peak)",5921,Climbed,2014,"UK, Nepal",NPHU14301
+POTA,Pota Himal North,Peak Hawley,Dhaulagiri Himal (NE of Putha Hiunchuli),6182,Climbed,2008,France,POTA08101
+PANN,Pangbuk North,Jobo LeCoultre,Rolwaling Himal (NE of Pangbuk Ri on Tibetan border),6478,Climbed,2013,USA,PANN13301
+MUST,Mustang Himal,NA,Mustang Himal (S of Mansail on Tibetan border),6195,Climbed,2014,USA,MUST14301
+MNSL,Mansail,Manshail,Mustang Himal (NW of Lo Manthang on Tibetan border),6235,Climbed,2014,Japan,MNSL14301
+CPHU,Chhochenphu Himal,NA,Ohmi Kangri Himal (SW of Pabuk Kang near Tibetan border),6260,Unclimbed,NA,NA,NA
+TANK,Tankya I,NA,Kanti Himal (NE of Mariyang on Tibetan border),6305,Unclimbed,NA,NA,NA
+GORK,Gorakh Khang,NA,Gorakh Khang (ENE of Simikot on Tibetan border),6254,Unclimbed,NA,NA,NA
+RAUN,Raungsiyar,NA,Rolwaling Himal (N of Pimu),6224,Climbed,2015,Nepal,RAUN15301
+LDAK,Langdak,NA,Rolwaling Himal (N of Raungsiyar and Pimu),6220,Climbed,2015,Nepal,LDAK15301
+TKRE,Takargo East,"Thakar Go East, Dragker-go East",Rolwaling Himal (ESE of Takargo),6152,Climbed,2015,Nepal,TKRE15301
+OMIT,Omitso Go,Omi Tso Go,Rolwaling Himal (NE of Kang Nachugo on Tibetan border),6332,Unclimbed,NA,NA,NA
+CBAM,Chhopa Bamare,Chomo Pamari,Rolwaling Himal (NW of Lamabagar on Tibetan border),6109,Climbed,2019,"USA, France",CBAM18401
+YALW,Yalung Kang West,NA,Kangchenjunga Himal (W summit of Yalung Kang),8077,Unclimbed,NA,NA,NA
+KANN,Kangchenjunga North,NA,Kangchenjunga Himal (small knob north of Main summit),7938,Unclimbed,NA,NA,NA
+KBNE,Kangbachen East,Kambachen East,Kangchenjunga Himal (plateau SE of Kangbachen?),7780,Unclimbed,NA,NA,NA
+HERZ,Herzog Peak,Khangsar Khang West,Annapurna Himal (WSW of Roc Noir),7555,Climbed,NA,NA,NA
+GANW,Gangapurna West,"Lachenal Peak, Asapurna",Annapurna Himal (W of Gangapurna),7140,Unclimbed,NA,NA,NA
+CHMR,Chamar,Shringi Himal,Shringi Himal (SSE of Chamar),7161,Unclimbed,NA,NA,NA
+NGAP,Nepal Gap Peak,Nepal Gyap Peak,Kangchenjunga Himal (ENE of Gimmegela on Indian border),7007,Unclimbed,NA,NA,NA
+GAUS,Gaurishankar South,Gauri,Rolwaling Himal (S of Gaurishankar),7010,Climbed,1979,UK,GAUS79301
+BURK,Burke Kang,Burke Khang,Khumbu Himal (ENE of Hungchhi on Tibetan border),6942,Climbed,2017,"Ireland, Nepal",BURK17301
+HMLE,Himlung East,NA,Peri Himal (E of Himlung Himal on Tibetan border),6932,Climbed,2017,"France, Nepal",HMLE17101
+YNGS,Yangra Kangri South,"Yangra South, Ganesh I South",Ganesh Himal (NW of Ganesh III on Tibetan border),6863,Unclimbed,NA,NA,NA
+NUPL,Nup La Kang,Nupla Khang,Khumbu Himal (N of Nup La on Tibetan border),6861,Climbed,2018,"USA, Norway",NUPL18301
+CHUM,Chumbu,NA,Khumbu Himal (WSW of Khangri Shar near Tibetan border),6859,Unclimbed,NA,NA,NA
+PHUG,Phu Kang Go,"Phu Khang Go, Athahra Saya Khola Himal",Peri Himal (SE of Cheo on Tibetan border),6767,Climbed,2011,"France, Belgium",PHUG11301
+GURA,Guras,NA,Guras Himal (NE of Nampa on Tibetan border),6744,Unclimbed,NA,NA,NA
+THRK,Tharke Kang,Tharke Khang,Khumbu Himal (S of Nup La on Tibetan border),6710,Climbed,2017,"USA, Nepal",THRK17301
+HUGO,Hulang Go,NA,Peri Himal (WNW of Ratna Chuli on Tibetan border),6687,Unclimbed,NA,NA,NA
+SHNW,Shershon Northwest,NA,Makalu Himal (NW of Shershon on Tibetan border),6682,Climbed,1980,"UK, France",SHNW80301
+AGLE,Agole East,Angole East,Rolwaling Himal (E of Tengi Ragi Tau),6675,Unclimbed,NA,NA,NA
+ROLK,Rolwaling Kang,Rolwaling Khang,Rolwaling Himal (NNE of Tarkago),6664,Climbed,2016,Japan,ROLK16301
+YARW,Yarwa,NA,Guras Himal (NW of Nampa on Tibetan border),6644,Unclimbed,NA,NA,NA
+YANG,Yangri,Jugal,Jugal Himal (N of Phurbi Chhyachu on Tibetan border),6535,Unclimbed,NA,NA,NA
+LCHN,Lachama North,NA,Changla Himal (N of Lachama Chuli on Tibetan border),6628,Unclimbed,NA,NA,NA
+CHNG,Changdi,NA,Palchung Himal (SE of Kanti Himal peak on Tibetan border),6623,Unclimbed,NA,NA,NA
+GOLD,Goldum Peak,Pangri Goldumba,Jugal Himal (on Tibetan border),6632,Unclimbed,NA,NA,NA
+THOC,Thoche Go,NA,Peri Himal (SE of Cheo Himal on Tibetan border),6602,Unclimbed,NA,NA,NA
+KCHS,Kangchung Shar,"Khangchung, Kangcho Shar, UIAA Peak",Khumbu Himal (NE of Gokyo Lake),6063,Climbed,1984,Yugoslavia,KCHS84301
+PHUN,Phu Kang North,Phu Khang North,Peri Himal (N of Cheo Himal on Tibetan border),6580,Unclimbed,NA,NA,NA
+PTHE,Pethangtse East,NA,Khumbu Himal (ESE of Pethangtse on Tibetan border),6572,Climbed,2008,UK,PTHE08101
+PHNG,Phungi,NA,Peri Himal (SE of Ratna Chuli on Tibetan border),6524,Unclimbed,NA,NA,NA
+KNTE,Kanti Himal East,NA,Kanti Himal (ENE of Kanti Himal on Tibetan border),6516,Unclimbed,NA,NA,NA
+JARK,Jarkya,NA,Manaslu Himal (N of Larkya La on Tibetan border),6473,Unclimbed,NA,NA,NA
+MARW,Mariyang West,NA,Kanti Himal (WSW of Mariyang on Tibetan border),6455,Unclimbed,NA,NA,NA
+MAYT,Mayonthang Kang,Mayun Thang Khang,Kanti Himal (NW of Changdi Himal on Tibetan border),6449,Unclimbed,NA,NA,NA
+LNJU,Langju,Lajo Dada,Shringi Himal (S of Tobsar),6426,Climbed,2017,Japan,LNJU17301
+JYAC,Jyachhung,NA,Byas Risi Himal (NNW of Nampa on Tibetan border),6338,Unclimbed,NA,NA,NA
+GYLA,Gyala,NA,Manaslu Himal (NNE of Larkya La on Tibetan border),6363,Unclimbed,NA,NA,NA
+DOLM,Dolma Khang,Tseringma,Rolwaling Himal (SE of Gaurishankar on Tibetan border),6332,Climbed,1980,"Australia, Nepal",DOLM80101
+KAIP,Kaipuchonam,NA,Kanti Himal (WNW of Changdi on Tibetan border),6329,Unclimbed,NA,NA,NA
+LDNG,Langdung,Ripumutse,Rolwaling Himal (WSW of Ripimo Shar on Tibetan border),6326,Climbed,2017,Nepal,LDNG17401
+DZA2,Dzanye II,NA,Janak Himal (S of Danzye Peak),6318,Climbed,2015,Japan,DZA215301
+PAMA,Pama Himal,NA,Shringi Himal (N of Chamar on Tibetan border),6300,Unclimbed,NA,NA,NA
+PERH,Peri Himal,NA,Peri Himal (SE of Cheo Himal on Tibetan border),6296,Unclimbed,NA,NA,NA
+TAKL,Takla Kang,Takla Khang,Kanti Himal (SSE of Kanti Himal peak on Tibetan border),6276,Unclimbed,NA,NA,NA
+KOGI,Kogi Khang North,Kogi Kang North,Kanti Himal (ESE of Kanti Himal peak on Tibetan border),6275,Unclimbed,NA,NA,NA
+ASAJ,Asajya Tuppa,NA,Gorakh Himal (ENE of Simikot on Tibetan border),6265,Unclimbed,NA,NA,NA
+KOJS,Kojichuwa South,NA,Kanti Himal (SW of Kojichuwa Chuli on Tibetan border),6264,Unclimbed,NA,NA,NA
+PKAR,Pankar Himal,NA,Manaslu Himal (ENE of Samagaon on Tibetan border),6264,Climbed,2018,Japan,PKAR18101
+SAUL,Saula,NA,Manaslu Himal (ENE of Samagaon on Tibetan border),6235,Unclimbed,NA,NA,NA
+YARA,Yala Chuli,Yara Chuli,Palchung Himal (SE of Changdi on Tibetan border),6236,Unclimbed,NA,NA,NA
+RHIM,Rhimbu,NA,Shringi Himal (S of Tobsar),6210,Unclimbed,NA,NA,NA
+SANC,Sanctuary Peak,NA,Kanjiroba Himal (N of Kanjiroba North),6207,Unclimbed,NA,NA,NA
+LASA,Lasa,NA,Byas Risi Himal (NNW of Nampa on Tibetan border),6189,Unclimbed,NA,NA,NA
+PERI,Peri,NA,Langtang Himal (SE of Langtang Ri on Tibetan border),6174,Climbed,2016,"Italy, Nepal",PERI16301
+DWIJ,Dwijen Himal,NA,Shringi Himal (NE of Ghap village on Tibetan border),6169,Unclimbed,NA,NA,NA
+JABR,Jabou Ri,NA,Rolwaling Himal (S of Tarkago),6166,Climbed,2015,USA,JABR15301
+BEDG,Beding Go,Bedding Go,Rolwaling Himal (N of Beding village on Tibetan border),6125,Climbed,2015,"Nepal, Canada, Brazil, Ireland",BEDG15301
+TAKN,Takphu North,NA,Nalakankar Himal (on W Nepal/Tibetan border),6142,Climbed,2016,"Germany, Nepal",TAKN16301
+BHUL,Bhulu Lhasa,NA,Kanjiroba Himal (NNW of Kanjiroba North),6102,Climbed,1964,"UK, Nepal",BHUL64301
+LNAK,Lhonak,Rifil Peak,Janak Himal (WNW of Drohmo),6070,Unclimbed,NA,NA,NA
+ROLM,Rolmi,NA,Shringi Himal (S of Tobsar),6056,Climbed,2017,Nepal,ROLM17301
+ACHN,Aichyn,"Aychin, Ashvin",Chandi Himal (SW of Changwathang),6055,Climbed,2015,Japan,ACHN15301
+ARDN,Ardang,Chyoro Ri,Phupharka Himal (NW of Simikot),6034,Climbed,2019,Canada,ARDN19301
+LUNG,Lungchhung,NA,Palchung Himal (NE of Kanjiroba on Tibetan border),6043,Unclimbed,NA,NA,NA
+KHNG,Khung,NA,Palchung Himal (NE of Kanjiroba on Tibetan border),6024,Unclimbed,NA,NA,NA
+CHND,Chandi Himal,NA,Chandi Himal (NE of Simikot on Tibetan border),6142,Unclimbed,NA,NA,NA
+KALI,Kali Himal,"Chota Ri, Baruntse North",Khumbu Himal (NW of Baruntse),6985,Climbed,1983,Netherlands,KALI83101
+DHEC,Dhechyan Khang,NA,Damodar Himal (ESE of Gaugiri on Tibetan border),6019,Climbed,2018,"Austria, Germany, Nepal",DHEC18101
+EKRA,Ek Rate Danda,NA,"Khumbu Himal (in Hongku Valley, S of Chamlang)",6213,Unclimbed,NA,NA,NA
+GHYN,Ghyun Himal I,NA,Mustang Himal (N of Ghyun Khola on Tibetan border),6110,Unclimbed,NA,NA,NA
+GORH,Gorakh Himal,NA,Gorakh Himal (NE of Simikot on Tibetan border),6198,Unclimbed,NA,NA,NA
+HONK,Hongku,"Hongku Chuli Nup, Honku, Sura Peak","Khumbu Himal (in Hongku Valley, W of Hongku Chuli)",6764,Climbed,2015,France,HONK15301
+KARK,Karko,NA,Saipal Himal (WNW of Saipal),6015,Unclimbed,NA,NA,NA
+KARS,Karsang Kang,Kharsang,Damodar Himal (NE of Saribung),6225,Climbed,2008,France,KARS08301
+KHAY,Khayang,NA,Manaslu Himal (E of Samdo Peak on Tibetan border),6186,Unclimbed,NA,NA,NA
+GYLZ,Gyalzen Peak,Gyaltsen Peak,Jugal Himal (SE of Leonpo Gang on Tibetan border),6151,Climbed,2019,Nepal,GYLZ19101
+LSAM,Lungsampa,"Lung Sampa, Lumsumna",Khumbu Himal (S of Nangpai Gosum II),6500,Climbed,2014,Spain,NA
+MERS,Mera South,NA,Khumbu Himal (SW of Mera),6064,Unclimbed,NA,NA,NA
+PASH,Pashuwo,Pashubo,Ganesh Himal (N of Lampo on Tibetan border),6177,Unclimbed,NA,NA,NA
+SATO,Sat Peak,Sato Peak,Ohmi Kangri Himal (N of Sharphu range),6164,Unclimbed,NA,NA,NA
+TSKP,Tso Karpo,NA,"Kanjiroba Himal (E of Kanjiroba, W of Tso Karpo Kang)",6518,Unclimbed,NA,NA,NA
+SPH2,Sharphu II,Tanga II,Ohmi Kangri Himal (WNW of Kangchenjunga),6328,Climbed,201,USA,SPH218301
+SPH3,Sharphu III,Marson,Ohmi Kangri Himal (WNW of Kangchenjunga),6220,Unclimbed,NA,NA,NA
+SPH4,Sharphu IV,Nupchu,Ohmi Kangri Himal (WNW of Kangchenjunga),6172,Climbed,1962,Japan,SPH462101
+SPH5,Sharphu V,Tanga III,Ohmi Kangri Himal (WNW of Kangchenjunga),6158,Unclimbed,NA,NA,NA
+SPH6,Sharphu VI,NA,Ohmi Kangri Himal (WNW of Kangchenjunga),6076,Unclimbed,NA,NA,NA
+MNSS,Mansail South,Manshail South,Mustang Himal (S of Mansail on Tibetan border),6248,Unclimbed,NA,NA,NA
+GDNG,Gave Ding,NA,Changla Himal (N of Lachama Chuli on Tibetan border),6581,Climbed,2015,UK,GDNG15301
+NGO3,Ngojumba Kang III,Hillary Peak,Khumbu Himal (NE of Cho Oyu on Tibetan border),7681,Unclimbed,NA,NA,NA
+KIMS,Kimshung,"Kinshung, Tsangbu Ri",Langtang Himal (NE of Langtang Lirung),6781,Unclimbed,NA,NA,NA
+PAWR,Pawar Central,Chaar Baatsa,Pawar Himal (N of Larkya La),6621,Climbed,2015,France,PAWR15101
+NGOR,Nagoru,NA,Peri Himal (NW of Himlung Himal),6165,Climbed,2016,"Austria, Nepal",NGOR16301
+SALD,Saldim,Peak 5,Makalu Himal (ENE of Shershon village on Tibetan border),6374,Unclimbed,NA,NA,NA
+LANY,Langtang Yubra,Yubra Himal,Langtang Himal (ENE of Langtang Lirung),6048,Unclimbed,2018,"Australia, Netherands, Nepal",LANY18301
+LARK,Larkya Peak,"Granite Peak, Naike Peak",Manaslu Himal (N of Manaslu North),6416,Climbed,2017,Georgia,LARK17301
+NUPW,Nuptse West II,Nuptse Nup II,Khumbu Himal (NW of Nuptse main summit),7732,Climbed,NA,NA,NA
+TENE,Tengi Ragi Tau East,NA,Rolwaling Himal (N of Tesi Laptsa),6675,Climbed,2005,France,TENE05301
+NILE,Nilgiri East,NA,Annapurna-Nilgiri Himal (NNW of Annapurna I),6698,Climbed,1970,Spain,NA
+PEMR,Pemthang Ri,NA,Jugal Himal (N of Pemthang Karpo Ri on Tibetan border),6743,Unclimbed,NA,NA,NA
+FUTI,Futi Himal,NA,Damodar Himal (W of Bhrikuti),6425,Climbed,2014,Portugal,FUTI14101
+SANB,Sano Bhrikuti,NA,Damodar Himal (ENE of Bhrikuti),6328,Climbed,2017,Switzerland,BHRS17101
+SANK,Sano Kailash,NA,NA,6452,Climbed,2019,"Austria, Nepal",SANK19101
+TARS,Tarke Kang Shar,Tare Kang,Annapurna Himal (E of Glacier Dome),7069,Climbed,1981,"Italy, Nepal",TARS81301
+KORL,Korlang Pari Tippa,Korlang Pari Tippa North,N of Lamabagar on Tibetan border,5738,Unclimbed,NA,NA,NA
+JANE,Jannu East,Khumbhakarna East,Kangchenjunga Himal (W of Kangchenjunga),7460,Unclimbed,NA,NA,NA
+YUBR,Yubra,NA,Langtang Himal (ENE of Langtang Lirung),6264,Unclimbed,NA,NA,NA
