@@ -2,6 +2,9 @@
   &nbsp;Data Visualization&nbsp;
 </h1>
 
+<!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 <div align="center">
 
 &nbsp;&nbsp;&nbsp;:incoming_envelope: [Email][Email]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="#" class="fa fa-twitter"></a> [Twitter][Twitter]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:computer: [LinkedIn][LinkedIn]
