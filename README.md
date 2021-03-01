@@ -1,10 +1,10 @@
 <h1 style="font-weight:normal" align="center">
-  &nbsp;#data-visualization&nbsp;
+  &nbsp;Data Visualization&nbsp;
 </h1>
 
 <div align="center">
 
-&nbsp;&nbsp;&nbsp;:e-mail: [Email][Email]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:speech_balloon: [Twitter][Twitter]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:necktie: [LinkedIn][LinkedIn]
+&nbsp;&nbsp;&nbsp;:e-mail: [Email][Email]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:speech_balloon: [Twitter][Twitter]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:laptop: [LinkedIn][LinkedIn]
 
 </div>
 
