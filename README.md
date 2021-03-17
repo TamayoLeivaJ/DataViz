@@ -1,5 +1,5 @@
 <h1 style="font-weight:normal" align="center">
-&nbsp;Data Visualization :mount_fuji: &nbsp;
+&nbsp;Data Visualization &nbsp;
 </h1>
 
 <div align="center">
@@ -18,7 +18,7 @@
 Scripts for data wrangling and visualization with R
 
 <h3 style="font-weight:normal" align="center">
-&nbsp; The Himalayan Database :mountain: &nbsp;
+&nbsp; :mount_fuji: The Himalayan Database :mountain: &nbsp;
 </h3>
 
 ![https://github.com/TamayoLeivaJ/data-visualization/blob/main/Himalayan-Database/plots/Himalayan_plots_001.png](https://github.com/TamayoLeivaJ/data-visualization/blob/main/Himalayan-Database/plots/Himalayan_plots_001.png) 
