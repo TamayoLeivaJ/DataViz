@@ -17,8 +17,6 @@ dir.create(here("images", "progress", "imgs_2021_himalaya_P2"), recursive = TRUE
 
 #### Read data ####
 expeditions <- read_csv("./himalayan_expeditions/ddbb_2021_himalaya/expeditions.csv")
-members <- read_csv("./himalayan_expeditions/ddbb_2021_himalaya/members.csv")
-peaks <- read_csv("./himalayan_expeditions/ddbb_2021_himalaya/peaks.csv")
 
 #### Data wrangling ####
 Expeditions_top <- expeditions %>% 
