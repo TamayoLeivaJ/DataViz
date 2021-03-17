@@ -1,4 +1,4 @@
-#### (2021 - tidytuesday - Himalayan database - Plot 2) #### 
+#### (2021 - Data Visualization - Himalayan database - Plot 2) #### 
 #### ----------------------------------------- ####
 
 #### set up ####
