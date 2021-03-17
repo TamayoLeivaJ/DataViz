@@ -4,12 +4,10 @@
 
 <div align="center">
 
-&nbsp;&nbsp;&nbsp;:incoming_envelope: [Email][Email]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [Twitter][Twitter]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:computer: [LinkedIn][LinkedIn]
+&nbsp;&nbsp;&nbsp;:incoming_envelope: [Email][Email]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="https://twitter.com/TamayoLeiva_J"><img height="32" width="32" src="https://github.com/TamayoLeivaJ/TamayoLeivaJ/blob/main/Image/logo/twitter.svg" /></a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/javier-ignacio-tamayo-leiva-94613267/"><img height="32" width="32" src="https://github.com/TamayoLeivaJ/TamayoLeivaJ/blob/main/Image/logo/linkedin.svg" />
 
 </div>
 
-[Twitter]:https://twitter.com/TamayoLeiva_J
-[LinkedIn]:https://www.linkedin.com/in/javier-ignacio-tamayo-leiva-94613267/
 [Email]:mailto:j.tamayo.leiva@gmail.com
 
 Scripts for data wrangling and visualization with R
