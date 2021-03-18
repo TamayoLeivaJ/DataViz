@@ -17,9 +17,9 @@
 
 Scripts for data wrangling and visualization with R
 
-<h3 style="font-weight:normal" align="center">
+<h2 style="font-weight:normal" align="center">
 &nbsp; :mountain_snow::mount_fuji: The Himalayan Database :mount_fuji::mountain_snow: &nbsp;
-</h3>
+</h2>
 
 ![https://github.com/TamayoLeivaJ/data-visualization/blob/main/Himalayan-Database/plots/Himalayan_plots_001.png](https://github.com/TamayoLeivaJ/data-visualization/blob/main/Himalayan-Database/plots/Himalayan_plots_001.png) 
 
@@ -27,9 +27,9 @@ Scripts for data wrangling and visualization with R
 
 ![https://github.com/TamayoLeivaJ/data-visualization/blob/main/Himalayan-Database/plots/Himalayan_plots_003.png](https://github.com/TamayoLeivaJ/data-visualization/blob/main/Himalayan-Database/plots/Himalayan_plots_003.png)
 
-<h3 style="font-weight:normal" align="left">
-&nbsp; Reference for Tidy Data and DataViz &nbsp;
-</h3>
+<h2 style="font-weight:normal" align="left">
+&nbsp; Reference &nbsp;
+</h2>
 
 <h3 style="font-weight:normal" align="left">
 &nbsp; Database &nbsp;
