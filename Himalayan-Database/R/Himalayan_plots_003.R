@@ -38,9 +38,9 @@ Palette <- c("Successful" = "#118C8C",
              "Accident (death or serious injury), or Illness" = "#D64700")
 
 ### Annotation ###
-text_1 <- "Mount Everest is the world's highest mountain with 8.848 m above sea level. <br> 
-           It is situated in the Mahalangur section of the Himalayas. The mountain's <br> 
-           summit straddles the borderline between China and Nepal. <br>
+text_1 <- "**Mount Everest** is the world's highest mountain with **8.848 m** above sea level. <br> 
+           It is situated in the **Mahalangur** section of the **Himalayas**. The mountain's <br> 
+           summit straddles the borderline between **China** and **Nepal**. <br>
            The more than two thousand expeditions have been classified according to <br>
            three criteria: <br>
            - <span style='color:#118C8C'>**Successful**</span> if they reach the highest point,<br>
@@ -49,11 +49,11 @@ text_1 <- "Mount Everest is the world's highest mountain with 8.848 m above sea 
 
 text_2 <- "<span style='text-center'> 
            **Mount Everest milestones**: <br>
-           - (**May 29, 1953**) Edmund Hillary and Tenzing Norgay <br>
+           - <span style='color: #FFFF00; font-family: \"Font Awesome 5 Free Solid\"'>&#xf091;</span> (**May 29, 1953**) Edmund Hillary and Tenzing Norgay <br>
              reached the Mount Everest summit for first time. <br>
-           - (**May 16, 1975**) Junko Tabei of Japan becomes <br>
+           - <span style='color: #FFFF00; font-family: \"Font Awesome 5 Free Solid\"'>&#xf221;</span> (**May 16, 1975**) Junko Tabei of Japan becomes <br>
               the first woman to summit Everest. <br>
-           - (**August 20, 1980**) Reinhold Messner is the first <br> 
+           - <span style='color: #FFFF00; font-family: \"Font Awesome 5 Free Solid\"'>&#xf6ec;</span> (**August 20, 1980**) Reinhold Messner is the first <br> 
               person to reach the summit solo.</span>"  
 
 text_3 <- "**Mount Everest tragedies**:<br>
@@ -68,7 +68,7 @@ Expeditions %>% group_by(year) %>%
                 mutate(number = row_number()) %>%
                 ggplot(aes(x = year, y = number, color = termination_reason)) +
                 geom_point(size = 1.5) +
-                scale_x_continuous(limits = c(1921,2020), breaks = c(1921, seq(1930,2000,10), seq(2000,2020,5)), expand = c(0.01, 0.01)) +
+                scale_x_continuous(limits = c(1921,2020), breaks = c(1921, seq(1930,1970,10), seq(1970,2020,5)), expand = c(0.01, 0.01)) +
                 scale_color_manual(values = Palette) +
                 annotate("richtext", x = 1922, y = 86, label = text_1, hjust = 0, color = Title, size = 4, fill = NA, label.color = NA, lineheight = unit(1.3, "line")) +
                 annotate("richtext", x = 1940, y = 38, label = text_2, hjust = 0, color = Title, size = 4, fill = NA, label.color = NA, lineheight = unit(1.3, "line")) +
