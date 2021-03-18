@@ -28,9 +28,20 @@ Scripts for data wrangling and visualization with R
 ![https://github.com/TamayoLeivaJ/data-visualization/blob/main/Himalayan-Database/plots/Himalayan_plots_003.png](https://github.com/TamayoLeivaJ/data-visualization/blob/main/Himalayan-Database/plots/Himalayan_plots_003.png)
 
 <h3 style="font-weight:normal" align="left">
-&nbsp; Reference for data wrangling and dataviz &nbsp;
+&nbsp; Reference for Tidy Data and DataViz &nbsp;
+</h3>
+
+<h3 style="font-weight:normal" align="left">
+&nbsp; Database &nbsp;
 </h3>
 
 - [The Himalayan Database](https://www.himalayandatabase.com)
 
+<h3 style="font-weight:normal" align="left">
+&nbsp; Tidy Data and DataViz &nbsp;
+</h3>
 
+- [Cédric Scherer](https://github.com/Z3tt/TidyTuesday)
+- [Charlie Gallagher](https://github.com/charlie-gallagher/tidy-tuesday/tree/master/himalayan_mts)
+- [cnicault](https://github.com/cnicault/tidytuesday)
+- [cxinya](https://github.com/cxinya/tidy-tuesday)
