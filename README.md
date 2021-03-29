@@ -47,3 +47,4 @@ Scripts for data wrangling and visualization with R
 - [Charlie Gallagher](https://github.com/charlie-gallagher/tidy-tuesday/tree/master/himalayan_mts)
 - [cnicault](https://github.com/cnicault/tidytuesday)
 - [cxinya](https://github.com/cxinya/tidy-tuesday)
+- [David Sjoberg - library(ggbump)](https://github.com/davidsjoberg/ggbump/)
