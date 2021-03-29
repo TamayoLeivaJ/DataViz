@@ -158,7 +158,7 @@ Annotation <- richtext_grob("The **Himalayan mountain** span about **2,400 km** 
                              anistan**, **China**, **Bhutan**, and **Nepal**. Over **six thousand Nepalese** have <br>
                              been **hired** to work at **Everest**. However, Nepalese people only have been <br>
                              in the top 10 tourists in the last 15 years, where they have been a rising <br>
-                             nation. Chinese and Indian have been also hired (just above four hun-<br>
+                             nation. Chinese and Indians have also been hired (just above four hun-<br>
                              dred.) But in the XXI century, they have been claiming their position <br>
                              in the region, as the top nations at the Everest.",
                              gp=gpar(fontfamily = "Roboto Slab", fontsize = 14, col = Title),
