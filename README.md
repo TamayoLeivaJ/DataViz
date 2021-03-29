@@ -27,6 +27,8 @@ Scripts for data wrangling and visualization with R
 
 ![https://github.com/TamayoLeivaJ/data-visualization/blob/main/Himalayan-Database/plots/Himalayan_plots_003.png](https://github.com/TamayoLeivaJ/data-visualization/blob/main/Himalayan-Database/plots/Himalayan_plots_003.png)
 
+![https://github.com/TamayoLeivaJ/data-visualization/blob/main/Himalayan-Database/plots/Himalayan_plots_004.png](https://github.com/TamayoLeivaJ/data-visualization/blob/main/Himalayan-Database/plots/Himalayan_plots_004.png)
+
 <h2 style="font-weight:normal" align="left">
 &nbsp; Reference &nbsp;
 </h2>
