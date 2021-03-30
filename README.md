@@ -50,6 +50,6 @@ Scripts for data wrangling and visualization with R
 - [David Sjoberg - library(ggbump)](https://github.com/davidsjoberg/ggbump/)
 
 
-#DataViz
-#Himalayan
-#Everest
+#DataViz <br>
+#Himalayan <br>
+#Everest <br>
