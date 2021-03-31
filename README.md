@@ -1,5 +1,5 @@
 <h1 style="font-weight:normal" align="center">
-&nbsp;Data Visualization &nbsp;
+&nbsp;#DataViz &nbsp;
 </h1>
 
 <div align="center">
