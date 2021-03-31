@@ -21,13 +21,13 @@ Scripts for data wrangling and visualization with R
 &nbsp; :mountain_snow::mount_fuji: The Himalayan Database :mount_fuji::mountain_snow: &nbsp;
 </h2>
 
-![https://github.com/TamayoLeivaJ/data-visualization/blob/main/Himalayan-Database/plots/Himalayan_plots_001.png](https://github.com/TamayoLeivaJ/data-visualization/blob/main/Himalayan-Database/plots/Himalayan_plots_001.png) 
+![https://github.com/TamayoLeivaJ/DataViz/blob/main/Himalayan-Database/plots/Himalayan_plots_001.png](https://github.com/TamayoLeivaJ/DataViz/blob/main/Himalayan-Database/plots/Himalayan_plots_001.png) 
 
-![https://github.com/TamayoLeivaJ/data-visualization/blob/main/Himalayan-Database/plots/Himalayan_plots_002.png](https://github.com/TamayoLeivaJ/data-visualization/blob/main/Himalayan-Database/plots/Himalayan_plots_002.png) 
+![https://github.com/TamayoLeivaJ/DataViz/blob/main/Himalayan-Database/plots/Himalayan_plots_002.png](https://github.com/TamayoLeivaJ/data-visualization/blob/main/Himalayan-Database/plots/Himalayan_plots_002.png) 
 
-![https://github.com/TamayoLeivaJ/data-visualization/blob/main/Himalayan-Database/plots/Himalayan_plots_003.png](https://github.com/TamayoLeivaJ/data-visualization/blob/main/Himalayan-Database/plots/Himalayan_plots_003.png)
+![https://github.com/TamayoLeivaJ/DataViz/blob/main/Himalayan-Database/plots/Himalayan_plots_003.png](https://github.com/TamayoLeivaJ/DataViz/blob/main/Himalayan-Database/plots/Himalayan_plots_003.png)
 
-![https://github.com/TamayoLeivaJ/data-visualization/blob/main/Himalayan-Database/plots/Himalayan_plots_004.png](https://github.com/TamayoLeivaJ/data-visualization/blob/main/Himalayan-Database/plots/Himalayan_plots_004.png)
+![https://github.com/TamayoLeivaJ/DataViz/blob/main/Himalayan-Database/plots/Himalayan_plots_004.png](https://github.com/TamayoLeivaJ/DataViz/blob/main/Himalayan-Database/plots/Himalayan_plots_004.png)
 
 <h2 style="font-weight:normal" align="left">
 &nbsp; Reference &nbsp;
