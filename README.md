@@ -1,6 +1,10 @@
 <h1 style="font-weight:normal" align="center">
-&nbsp;Data Visualization #DataViz &nbsp;
+&nbsp;Data Visualization&nbsp;
 </h1>
+
+<h2 style="font-weight:normal" align="center">
+&nbsp;#DataViz&nbsp;
+</h2>
 
 <div align="center">
 
