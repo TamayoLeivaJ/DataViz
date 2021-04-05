@@ -27,7 +27,8 @@ Members <- members %>%
            arrange(-citizenship_number)
 
 countries <- rnaturalearthdata::countries110 %>% 
-             st_as_sf() %>%
+             st_as_sf() %>% 
+             st_crop(xmin = -180, xmax = 180, ymin = -75, ymax = 75) %>%
              mutate(citizenship = case_when(admin == "United States of America" ~ "USA",
                                             admin == "South Korea" ~ "S Korea" ,
                                             admin == "South Africa" ~ "S Africa",
@@ -43,14 +44,15 @@ ranking <- st_geometry(countries) %>%
            as_tibble() %>% 
            bind_cols(tibble(ranking = normalize(rank(countries$citizenship_number), range = c(-75, 0), method = "range"),
                             country = countries$citizenship,
-                            xend = -30,
+                            xend = -200,
                             x_axis_start = xend + 10,
-                            ranking_x = normalize(countries$citizenship_number, range = c(first(x_axis_start), 70), method = "range"),
+                            ranking_x = normalize(countries$citizenship_number, range = c(first(x_axis_start), -110), method = "range"),
                             number_txt = paste0(format(countries$citizenship_number, digits = 0, nsmall = 2)),
                             number_txt2 = if_else(country == "USA", paste0(number_txt, " Mountaniers"), number_txt)))
 
 data_map <- rnaturalearthdata::countries110 %>% 
-            st_as_sf() %>%
+            st_as_sf() %>% 
+            st_crop(xmin = -180, xmax = 180, ymin = -75, ymax = 75) %>%
             filter(!admin %in% c("Antarctica", "Greenland", countries$citizenship))
 
 #### Plot Palette ####
