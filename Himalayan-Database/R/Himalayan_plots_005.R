@@ -27,8 +27,7 @@ Members <- members %>%
            arrange(-citizenship_number)
 
 countries <- rnaturalearthdata::countries110 %>% 
-             st_as_sf() %>% 
-             st_crop(xmin = -120, xmax = 180, ymin = -75, ymax = 75) %>% 
+             st_as_sf() %>%
              mutate(citizenship = case_when(admin == "United States of America" ~ "USA",
                                             admin == "South Korea" ~ "S Korea" ,
                                             admin == "South Africa" ~ "S Africa",
@@ -51,8 +50,7 @@ ranking <- st_geometry(countries) %>%
                             number_txt2 = if_else(country == "USA", paste0(number_txt, " Mountaniers"), number_txt)))
 
 data_map <- rnaturalearthdata::countries110 %>% 
-            st_as_sf() %>% 
-            st_crop(xmin = -120, xmax = 180, ymin = -75, ymax = 75) %>%
+            st_as_sf() %>%
             filter(!admin %in% c("Antarctica", "Greenland", countries$citizenship))
 
 #### Plot Palette ####
