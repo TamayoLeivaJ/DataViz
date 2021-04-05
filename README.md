@@ -59,5 +59,5 @@ Scripts for data wrangling and visualization with R
 <h4 style="font-weight:normal" align="left">
 #DataViz <br>
 #HimalayanDatabase <br>
-#Everest <br>
+#Everest<br>
 </h4>
