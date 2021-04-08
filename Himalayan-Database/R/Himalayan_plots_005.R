@@ -56,7 +56,7 @@ data_map <- rnaturalearthdata::countries110 %>%
             filter(!admin %in% c("Antarctica", "Greenland", countries$citizenship))
 
 #### Plot Palette ####
-Background <- c("#152238") 
+Background <- c("#021526") 
 Everest <- c("#FDF0D5") 
 Title <- c("#669BBC")
 Text <- c("#F2F2F2")
@@ -68,8 +68,8 @@ Palette <- viridis::viridis(begin = 0.2, end = 1, n=10)  # Viridis default color
 countries <- countries %>% 
              bind_cols(ranking %>% select(ranking))
 
-ggplot() + geom_sf(data = data_map, size = .3, fill = "grey10", color = "grey20") +
-           geom_sf(data = countries, size = .3, aes(fill = ranking), color = "grey20") +
+ggplot() + geom_sf(data = data_map, size = .3, fill = "black", color = "grey10") +
+           geom_sf(data = countries, size = .3, aes(fill = ranking), color = "grey10") +
            geom_segment(data = ranking, aes(x = x_axis_start, y = ranking, xend = ranking_x, yend = ranking, color = ranking), alpha = .6, size = 1, lineend = "round") +                                     # Line/bar from xstart to value
            geom_segment(data = ranking, aes(x = x_axis_start -.5, y = min(ranking) -1, xend = x_axis_start -.5, yend = max(ranking) +1), alpha = 1, size = .9, color = Background, lineend = "round") +       # Ranking Y axis - color line
            geom_text(data = ranking, aes(x = x_axis_start -.6, y = ranking, label = country, color = ranking), hjust = 1, size = 3.0, nudge_x = -.5, nudge_y = .5) +                                          # Country text
