@@ -64,7 +64,6 @@ Caption <- c("grey60")
 Palette <- viridis::viridis(begin = 0.2, end = 1, n=10)  # Viridis default color palette but avoiding deep-purple, and deep-blue
 
 #### Plot ####
-### Heatmap ###
 countries <- countries %>% 
              bind_cols(ranking %>% select(ranking))
 
