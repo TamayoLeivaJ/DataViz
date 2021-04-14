@@ -49,7 +49,7 @@ ranking <- Members_Women %>%
                             Peak = Members_Women$peak_name,
                             xend = 2020,                                                                                       # Where segment lines should finish
                             x_axis_start = xend - 30,                                                                          # Where segment lines should begin
-                            possition_x = first(x_axis_start) + Members_Women$prop * (2020-first(x_axis_start)),               # Adjust x axis position, to scale it to the prop 
+                            possition_x = first(x_axis_start) + Members_Women$prop * (xend-first(x_axis_start)),               # Adjust x axis position, to scale it to the prop 
                             number_txt = paste0(format(Members_Women$perc, digits = 0, nsmall = 0), "%"),
                             number_txt2 = if_else(Peak == "Manaslu", paste0(number_txt, " Women Mountaineers"), number_txt),
                             Peak_txt = if_else(Peak == "Manaslu" | Peak == "Dhaulagiri I", paste0(Peak, "*"), Peak))) %>% 
@@ -66,7 +66,7 @@ Palette <- viridis::plasma(begin = .2, end = .6, direction = 1, n=8)
 #### Plot ####
 ggplot() + geom_point(data = Members_Women, aes(x=first_ascent_year, y=height_meters, color=peak_name), size = 4) +
            geom_sigmoid(data = ranking, aes(x=first_ascent_year, y=height_meters, xend = x_axis_start - .2, yend = ranking, group = Peak, color = peak_name), alpha = .6, smooth = 10, size = 1) +   # Connecting line between       
-           geom_segment(data = ranking, aes(x = x_axis_start, y = ranking, xend = 2020, yend = ranking, color = peak_name), alpha = .2, size = 1, lineend = "round") +                               # Line/bar from xstart to 100%
+           geom_segment(data = ranking, aes(x = x_axis_start, y = ranking, xend = xend, yend = ranking, color = peak_name), alpha = .2, size = 1, lineend = "round") +                               # Line/bar from xstart to 100%
            geom_segment(data = ranking, aes(x = x_axis_start, y = ranking, xend = possition_x, yend = ranking, color = peak_name), alpha = .6, size = 1, lineend = "round") +                        # Line/bar from xstart to value
            geom_text(data = ranking, aes(x = x_axis_start, y = ranking, label = Peak_txt, color = peak_name), hjust = 1, size = 3.5, nudge_x = -1, nudge_y = -15) +                                  # Peak text
            geom_text(data = ranking, aes(x = possition_x, y = ranking, label = number_txt2, color = peak_name), hjust = 0, size = 3.5, nudge_x = .8, nudge_y = 15) +                                 # Mountaniers number text
