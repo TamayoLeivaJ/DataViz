@@ -68,12 +68,11 @@ ggplot() + geom_point(data = Members_Women, aes(x=first_ascent_year, y=height_me
            geom_sigmoid(data = ranking, aes(x=first_ascent_year, y=height_meters, xend = x_axis_start - .2, yend = ranking, group = Peak, color = peak_name), alpha = .6, smooth = 10, size = 1) +   # Connecting line between       
            geom_segment(data = ranking, aes(x = x_axis_start, y = ranking, xend = 2020, yend = ranking, color = peak_name), alpha = .2, size = 1, lineend = "round") +                               # Line/bar from xstart to 100%
            geom_segment(data = ranking, aes(x = x_axis_start, y = ranking, xend = possition_x, yend = ranking, color = peak_name), alpha = .6, size = 1, lineend = "round") +                        # Line/bar from xstart to value
-           geom_text(data = ranking, aes(x = x_axis_start, y = ranking, label = Peak_txt, color = peak_name), hjust = 1, size = 3.0, nudge_x = -1, nudge_y = -15) +                                  # Peak text
-           geom_text(data = ranking, aes(x = possition_x, y = ranking, label = number_txt2, color = peak_name), hjust = 0, size = 3, nudge_x = .8, nudge_y = 15) +                                   # Mountaniers number text
+           geom_text(data = ranking, aes(x = x_axis_start, y = ranking, label = Peak_txt, color = peak_name), hjust = 1, size = 3.5, nudge_x = -1, nudge_y = -15) +                                  # Peak text
+           geom_text(data = ranking, aes(x = possition_x, y = ranking, label = number_txt2, color = peak_name), hjust = 0, size = 3.5, nudge_x = .8, nudge_y = 15) +                                 # Mountaniers number text
            scale_x_continuous(limits = c(1950, 2020), breaks = Members$first_ascent_year) +
            scale_y_continuous(limits = c(8050, 8850), breaks = c(8091,8165,8188,8485,8516,8586,8850), labels = unique(sort(Members$height_label))) +
            scale_color_manual(values = Palette, breaks = ranking$peak_name) +
-           scale_fill_manual(values = Palette, breaks = ranking$peak_name) + 
            ### Theme ###
            theme_void() +
            theme(
@@ -87,7 +86,7 @@ ggplot() + geom_point(data = Members_Women, aes(x=first_ascent_year, y=height_me
              plot.background = element_rect(fill = Background, color = NA),
              plot.caption.position = "plot",
              plot.caption = element_markdown(color = Caption, family="Menlo", hjust = 1, vjust = 0),
-             plot.tag = element_markdown(face = "plain", family ="Roboto", colour = Title, size = 12),
+             plot.tag = element_markdown(face = "plain", family ="Ubuntu Condensed", colour = Title, size = 12),
              plot.tag.position = c(0.18, 0.02),
              ## Legend ##
              legend.position = "none",
