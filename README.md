@@ -9,7 +9,7 @@
 <div align="center">
 
 &nbsp;&nbsp;&nbsp; 
-<a href="mailto:j.tamayo.leiva@gmail.com"><img height="32" width="32" src="https://github.com/TamayoLeivaJ/TamayoLeivaJ/blob/main/Image/logo/mail-dot-ru.svg" /></a> 
+<a href="mailto:j.tamayo.leiva@gmail.com"><img height="32" width="32" src="https://github.com/TamayoLeivaJ/TamayoLeivaJ/blob/main/Image/logo/envelope-solid.svg" /></a> 
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
 <a href="https://www.kaggle.com/jtamayo"><img height="32" width="32" src="https://github.com/TamayoLeivaJ/TamayoLeivaJ/blob/main/Image/logo/kaggle.svg" /></a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
