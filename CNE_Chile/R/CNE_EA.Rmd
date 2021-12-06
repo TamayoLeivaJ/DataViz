@@ -1,0 +1,12 @@
+---
+title: "Comisión Nacional de Energía - Energía Abierta"
+author: "Javier Tamayo-Leiva"
+date: "12/2/2021"
+output: html_document
+---
+
+```{r}
+library(readr)
+CIG_SEN <- read_csv("../data/CAPAC_INSTA_DE_GENER_SEN_v2_20211203.csv")
+```
+
